@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Monika's Exam Prep Quiz</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>🌟 Monika's Exam Preparation Quiz 🌟</h1>
+            <p class="encouragement-text" id="encouragementText">I believe in you, babe! You've got this! 💪💕</p>
+            <div class="timer-display" id="timerDisplay" style="display: none;">
+                <span class="timer-icon">⏱️</span>
+                <span id="timerText">00:00</span>
+            </div>
+            <div class="progress-bar">
+                <div class="progress-fill" id="progressFill"></div>
+            </div>
+            <p class="progress-text" id="progressText">Question 1 of <span id="totalQuestions">0</span></p>
+        </header>
+
+        <div id="startScreen" class="start-screen">
+            <div class="start-card">
+                <h2>Hey Monika! 🌸</h2>
+                <p class="welcome-message">I made this quiz just for you, babe! 💕</p>
+                <div class="quiz-info">
+                    <p>📝 <strong><span id="totalQuestionsInfo">0</span> questions</strong> to answer</p>
+                    <p>⏱️ Timer will start when you begin</p>
+                    <p>💪 Take your time, sweetheart. I know you'll do amazing! 💖</p>
+                </div>
+                <button id="startBtn" class="btn btn-start">🚀 Start Quiz</button>
+            </div>
+        </div>
+
+        <div id="quizContainer" class="quiz-container" style="display: none;">
+            <div class="question-card" id="questionCard">
+                <h2 class="question-text" id="questionText"></h2>
+                <div class="answers-container" id="answersContainer"></div>
+                <div class="navigation-buttons">
+                    <button id="prevBtn" class="btn btn-secondary" disabled>Previous</button>
+                    <button id="nextBtn" class="btn btn-primary">Next</button>
+                    <button id="submitBtn" class="btn btn-submit" style="display: none;">Submit Quiz</button>
+                </div>
+            </div>
+        </div>
+
+        <div id="resultsContainer" class="results-container" style="display: none;">
+            <div class="results-card">
+                <div id="celebrationMessage" class="celebration-message"></div>
+                <h2>You Did It, Monika! 🎉</h2>
+                <div class="score-display">
+                    <div class="score-circle" id="scoreCircle">
+                        <span id="scorePercentage">0</span>%
+                    </div>
+                    <p class="score-text">You got <span id="correctCount">0</span> out of <span id="totalCount">0</span> questions correct</p>
+                    <p class="time-taken" id="timeTaken">⏱️ Time taken: <span id="timeDisplay">0:00</span></p>
+                    <p class="motivational-message" id="motivationalMessage"></p>
+                </div>
+                
+                <div class="results-summary" id="resultsSummary"></div>
+                
+                <button id="restartBtn" class="btn btn-primary">🔄 Try Again</button>
+            </div>
+        </div>
+        
+        <div id="confetti-container"></div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
+
