@@ -33,18 +33,54 @@ function stopTimer() {
     }
 }
 
-// Load quiz data
-async function loadQuizData() {
+// Quiz titles mapping
+const quizTitles = {
+    'data/data.json': 'Colloids, Solutions & Mixtures',
+    'data/data2.json': 'Plant Cells & Leaves'
+};
+
+// Load quiz counts for selection screen
+async function loadQuizCounts() {
     try {
-        const response = await fetch('data/data.json');
+        // Load first quiz
+        const response1 = await fetch('data/data.json');
+        const data1 = await response1.json();
+        document.querySelector('[data-file="data/data.json"]').textContent = data1.length;
+        
+        // Load second quiz
+        const response2 = await fetch('data/data2.json');
+        const data2 = await response2.json();
+        document.querySelector('[data-file="data/data2.json"]').textContent = data2.length;
+    } catch (error) {
+        console.error('Error loading quiz counts:', error);
+    }
+}
+
+// Load selected quiz data
+async function loadQuizData(quizFile) {
+    try {
+        const response = await fetch(quizFile);
         quizData = await response.json();
         document.getElementById('totalQuestionsInfo').textContent = quizData.length;
         document.getElementById('totalQuestions').textContent = quizData.length;
+        document.getElementById('selectedQuizTitle').textContent = 
+            `Ready for ${quizTitles[quizFile]} quiz, babe! 💕`;
+        return true;
     } catch (error) {
         console.error('Error loading quiz data:', error);
-        document.getElementById('startScreen').innerHTML = 
-            '<div class="error">Error loading quiz data. Please check if data/data.json exists.</div>';
+        alert('Error loading quiz data. Please try again.');
+        return false;
     }
+}
+
+// Handle quiz selection
+function selectQuiz(quizFile) {
+    loadQuizData(quizFile).then(success => {
+        if (success) {
+            document.getElementById('quizSelectionScreen').style.display = 'none';
+            document.getElementById('startScreen').style.display = 'block';
+        }
+    });
 }
 
 function startQuiz() {
@@ -322,8 +358,9 @@ function restartQuiz() {
     // Stop any running timer
     stopTimer();
     
-    // Show start screen again
-    document.getElementById('startScreen').style.display = 'block';
+    // Show quiz selection screen again
+    document.getElementById('quizSelectionScreen').style.display = 'block';
+    document.getElementById('startScreen').style.display = 'none';
     document.getElementById('quizContainer').style.display = 'none';
     document.getElementById('resultsContainer').style.display = 'none';
     document.getElementById('timerDisplay').style.display = 'none';
@@ -332,6 +369,7 @@ function restartQuiz() {
     userAnswers = {};
     currentQuestionIndex = 0;
     elapsedTime = 0;
+    quizData = [];
     
     window.scrollTo({ top: 0, behavior: 'smooth' });
 }
@@ -342,6 +380,15 @@ document.getElementById('nextBtn').addEventListener('click', nextQuestion);
 document.getElementById('prevBtn').addEventListener('click', prevQuestion);
 document.getElementById('submitBtn').addEventListener('click', submitQuiz);
 document.getElementById('restartBtn').addEventListener('click', restartQuiz);
+
+// Quiz selection event listeners
+document.querySelectorAll('.btn-select-quiz').forEach(btn => {
+    btn.addEventListener('click', function() {
+        const quizCard = this.closest('.quiz-option-card');
+        const quizFile = quizCard.getAttribute('data-quiz');
+        selectQuiz(quizFile);
+    });
+});
 
 // Keyboard navigation
 document.addEventListener('keydown', (e) => {
@@ -354,6 +401,6 @@ document.addEventListener('keydown', (e) => {
     }
 });
 
-// Load quiz when page loads
-loadQuizData();
+// Load quiz counts when page loads
+loadQuizCounts();
 

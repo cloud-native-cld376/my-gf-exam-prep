@@ -21,10 +21,32 @@
             <p class="progress-text" id="progressText">Question 1 of <span id="totalQuestions">0</span></p>
         </header>
 
-        <div id="startScreen" class="start-screen">
-            <div class="start-card">
+        <div id="quizSelectionScreen" class="quiz-selection-screen">
+            <div class="selection-card">
                 <h2>Hey Monika! 🌸</h2>
-                <p class="welcome-message">I made this quiz just for you, babe! 💕</p>
+                <p class="welcome-message">I made these quizzes just for you, babe! 💕</p>
+                <p class="selection-instruction">Choose which quiz you'd like to take:</p>
+                <div class="quiz-options">
+                    <div class="quiz-option-card" data-quiz="data/data.json">
+                        <h3>📚 Quiz 1</h3>
+                        <p class="quiz-description">Colloids, Solutions & Mixtures</p>
+                        <p class="quiz-count"><span class="quiz-count-number" data-file="data/data.json">0</span> questions</p>
+                        <button class="btn btn-select-quiz">Select This Quiz</button>
+                    </div>
+                    <div class="quiz-option-card" data-quiz="data/data2.json">
+                        <h3>🌿 Quiz 2</h3>
+                        <p class="quiz-description">Plant Cells & Leaves</p>
+                        <p class="quiz-count"><span class="quiz-count-number" data-file="data/data2.json">0</span> questions</p>
+                        <button class="btn btn-select-quiz">Select This Quiz</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div id="startScreen" class="start-screen" style="display: none;">
+            <div class="start-card">
+                <h2>Ready to Start! 🌸</h2>
+                <p class="welcome-message" id="selectedQuizTitle">I made this quiz just for you, babe! 💕</p>
                 <div class="quiz-info">
                     <p>📝 <strong><span id="totalQuestionsInfo">0</span> questions</strong> to answer</p>
                     <p>⏱️ Timer will start when you begin</p>

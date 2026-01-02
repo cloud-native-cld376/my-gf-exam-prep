@@ -112,6 +112,104 @@ header h1 {
     margin-right: 8px;
 }
 
+.quiz-selection-screen {
+    animation: fadeIn 0.5s ease;
+}
+
+.selection-card {
+    background: white;
+    border-radius: 15px;
+    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.2);
+    padding: 50px 40px;
+    text-align: center;
+}
+
+.selection-card h2 {
+    background: linear-gradient(135deg, #ff6b9d 0%, #c44569 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    font-size: 2.5em;
+    margin-bottom: 20px;
+    font-weight: 700;
+}
+
+.selection-instruction {
+    font-size: 1.3em;
+    color: #666;
+    margin-bottom: 30px;
+    font-weight: 500;
+}
+
+.quiz-options {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    gap: 30px;
+    margin-top: 30px;
+}
+
+.quiz-option-card {
+    background: linear-gradient(135deg, #ffe0e6 0%, #ffb3d1 100%);
+    border-radius: 15px;
+    padding: 30px;
+    text-align: center;
+    transition: all 0.3s ease;
+    border: 3px solid transparent;
+    cursor: pointer;
+}
+
+.quiz-option-card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 15px 35px rgba(255, 107, 157, 0.3);
+    border-color: #ff6b9d;
+}
+
+.quiz-option-card h3 {
+    color: #c44569;
+    font-size: 2em;
+    margin-bottom: 15px;
+    font-weight: 700;
+}
+
+.quiz-description {
+    font-size: 1.3em;
+    color: #666;
+    margin-bottom: 15px;
+    font-weight: 600;
+}
+
+.quiz-count {
+    font-size: 1.1em;
+    color: #c44569;
+    margin-bottom: 20px;
+    font-weight: 500;
+}
+
+.quiz-count-number {
+    font-weight: 700;
+    font-size: 1.2em;
+}
+
+.btn-select-quiz {
+    background: linear-gradient(135deg, #ff6b9d 0%, #ff8fab 100%);
+    color: white;
+    padding: 15px 30px;
+    font-size: 1.2em;
+    border-radius: 25px;
+    border: none;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    font-weight: 600;
+    box-shadow: 0 5px 15px rgba(255, 107, 157, 0.3);
+    width: 100%;
+}
+
+.btn-select-quiz:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 8px 20px rgba(255, 107, 157, 0.4);
+    background: linear-gradient(135deg, #ff8fab 0%, #ff6b9d 100%);
+}
+
 .start-screen {
     animation: fadeIn 0.5s ease;
 }
@@ -570,6 +668,29 @@ header h1 {
     
     .motivational-message {
         font-size: 1.2em;
+    }
+    
+    .quiz-options {
+        grid-template-columns: 1fr;
+        gap: 20px;
+    }
+    
+    .selection-card,
+    .start-card {
+        padding: 30px 20px;
+    }
+    
+    .selection-card h2,
+    .start-card h2 {
+        font-size: 2em;
+    }
+    
+    .quiz-option-card {
+        padding: 20px;
+    }
+    
+    .quiz-option-card h3 {
+        font-size: 1.5em;
     }
 }
 
