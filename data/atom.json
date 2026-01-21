@@ -1,0 +1,1002 @@
+[
+  {
+    "question": "An atom is best defined as:",
+    "answers": [
+      "The smallest unit of a compound",
+      "The smallest unit of an element that retains its properties",
+      "A group of molecules",
+      "A charged particle"
+    ],
+    "correctAnswer": "The smallest unit of an element that retains its properties"
+  },
+  {
+    "question": "A molecule consists of:",
+    "answers": [
+      "Only metals",
+      "Two or more atoms chemically bonded",
+      "Only ionic bonds",
+      "Free electrons"
+    ],
+    "correctAnswer": "Two or more atoms chemically bonded"
+  },
+  {
+    "question": "Which of the following is a compound?",
+    "answers": [
+      "O₂",
+      "Na",
+      "NaCl",
+      "He"
+    ],
+    "correctAnswer": "NaCl"
+  },
+  {
+    "question": "Dalton’s atomic theory states that atoms are:",
+    "answers": [
+      "Divisible",
+      "Identical for all elements",
+      "Indestructible in chemical reactions",
+      "Negatively charged"
+    ],
+    "correctAnswer": "Indestructible in chemical reactions"
+  },
+  {
+    "question": "Which particle has a negative charge?",
+    "answers": [
+      "Proton",
+      "Neutron",
+      "Electron",
+      "Nucleus"
+    ],
+    "correctAnswer": "Electron"
+  },
+  {
+    "question": "Isotopes differ in:",
+    "answers": [
+      "Number of protons",
+      "Number of electrons",
+      "Number of neutrons",
+      "Atomic number"
+    ],
+    "correctAnswer": "Number of neutrons"
+  },
+  {
+    "question": "The atomic number represents the number of:",
+    "answers": [
+      "Neutrons",
+      "Electrons and neutrons",
+      "Protons",
+      "Isotopes"
+    ],
+    "correctAnswer": "Protons"
+  },
+  {
+    "question": "Which subatomic particle has the least mass?",
+    "answers": [
+      "Proton",
+      "Neutron",
+      "Electron",
+      "Nucleus"
+    ],
+    "correctAnswer": "Electron"
+  },
+  {
+    "question": "A neutral atom has:",
+    "answers": [
+      "More electrons than protons",
+      "Equal protons and electrons",
+      "No neutrons",
+      "No charge particles"
+    ],
+    "correctAnswer": "Equal protons and electrons"
+  },
+  {
+    "question": "Which element has atomic number 6?",
+    "answers": [
+      "Oxygen",
+      "Carbon",
+      "Nitrogen",
+      "Helium"
+    ],
+    "correctAnswer": "Carbon"
+  },
+  {
+    "question": "A chemical equation shows:",
+    "answers": [
+      "Physical changes only",
+      "Rearrangement of atoms",
+      "Nuclear reactions",
+      "Electron orbitals"
+    ],
+    "correctAnswer": "Rearrangement of atoms"
+  },
+  {
+    "question": "Reactants are written on the:",
+    "answers": [
+      "Right side",
+      "Left side",
+      "Above the arrow",
+      "Below the arrow"
+    ],
+    "correctAnswer": "Left side"
+  },
+  {
+    "question": "The Law of Conservation of Mass means:",
+    "answers": [
+      "Mass is lost in reactions",
+      "Mass is gained in reactions",
+      "Total mass of reactants equals total mass of products",
+      "Mass changes into energy only"
+    ],
+    "correctAnswer": "Total mass of reactants equals total mass of products"
+  },
+  {
+    "question": "Molecular mass is the sum of:",
+    "answers": [
+      "Protons in a molecule",
+      "Atomic masses of all atoms in a molecule",
+      "Neutrons in a molecule",
+      "Electrons in a molecule"
+    ],
+    "correctAnswer": "Atomic masses of all atoms in a molecule"
+  },
+  {
+    "question": "What is the molecular mass of water (H₂O)? (H=1, O=16)",
+    "answers": [
+      "17",
+      "18",
+      "16",
+      "2"
+    ],
+    "correctAnswer": "18"
+  },
+  {
+    "question": "The unit for molecular mass is usually:",
+    "answers": [
+      "Grams",
+      "Atomic mass units (amu)",
+      "Liters",
+      "Moles"
+    ],
+    "correctAnswer": "Atomic mass units (amu)"
+  },
+  {
+    "question": "A balanced equation has the same number of:",
+    "answers": [
+      "Molecules on both sides",
+      "Atoms of each element on both sides",
+      "Coefficients on both sides",
+      "Reactants and products"
+    ],
+    "correctAnswer": "Atoms of each element on both sides"
+  },
+  {
+    "question": "In 2H₂ + O₂ → 2H₂O, the coefficient of water is:",
+    "answers": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "correctAnswer": "2"
+  },
+  {
+    "question": "Which of these is a balanced equation?",
+    "answers": [
+      "H₂ + O₂ → H₂O",
+      "CH₄ + O₂ → CO₂ + H₂O",
+      "2H₂ + O₂ → 2H₂O",
+      "N₂ + H₂ → NH₃"
+    ],
+    "correctAnswer": "2H₂ + O₂ → 2H₂O"
+  },
+  {
+    "question": "Molecular mass of CO₂ is: (C=12, O=16)",
+    "answers": [
+      "28",
+      "32",
+      "44",
+      "56"
+    ],
+    "correctAnswer": "44"
+  },
+  {
+    "question": "Ionic bonds occur between:",
+    "answers": [
+      "Two metals",
+      "Two non-metals",
+      "A metal and a non-metal",
+      "Noble gases"
+    ],
+    "correctAnswer": "A metal and a non-metal"
+  },
+  {
+    "question": "Covalent bonds involve:",
+    "answers": [
+      "Transfer of electrons",
+      "Sharing of electrons",
+      "Loss of protons",
+      "Gain of neutrons"
+    ],
+    "correctAnswer": "Sharing of electrons"
+  },
+  {
+    "question": "An ion with a positive charge is a:",
+    "answers": [
+      "Anion",
+      "Cation",
+      "Isotope",
+      "Neutral atom"
+    ],
+    "correctAnswer": "Cation"
+  },
+  {
+    "question": "An anion is formed by:",
+    "answers": [
+      "Losing electrons",
+      "Gaining electrons",
+      "Losing protons",
+      "Gaining protons"
+    ],
+    "correctAnswer": "Gaining electrons"
+  },
+  {
+    "question": "Which molecule has a triple covalent bond?",
+    "answers": [
+      "H₂",
+      "O₂",
+      "N₂",
+      "Cl₂"
+    ],
+    "correctAnswer": "N₂"
+  },
+  {
+    "question": "Electronegativity is the ability of an atom to:",
+    "answers": [
+      "Lose electrons",
+      "Attract shared electrons",
+      "Repel other atoms",
+      "Stay neutral"
+    ],
+    "correctAnswer": "Attract shared electrons"
+  },
+  {
+    "question": "A polar covalent bond occurs when:",
+    "answers": [
+      "Electrons are shared equally",
+      "Electrons are shared unequally",
+      "Electrons are transferred",
+      "No bonds are formed"
+    ],
+    "correctAnswer": "Electrons are shared unequally"
+  },
+  {
+    "question": "Which of these is an ionic compound?",
+    "answers": [
+      "CO₂",
+      "H₂O",
+      "MgCl₂",
+      "CH₄"
+    ],
+    "correctAnswer": "MgCl₂"
+  },
+  {
+    "question": "Valence electrons are found in the:",
+    "answers": [
+      "Innermost shell",
+      "Outermost shell",
+      "Nucleus",
+      "Protons"
+    ],
+    "correctAnswer": "Outermost shell"
+  },
+  {
+    "question": "The octet rule states atoms seek to have:",
+    "answers": [
+      "2 electrons",
+      "4 electrons",
+      "8 electrons",
+      "10 electrons"
+    ],
+    "correctAnswer": "8 electrons"
+  },
+  {
+    "question": "One mole of any substance contains:",
+    "answers": [
+      "10^23 particles",
+      "6.022 × 10^23 particles",
+      "1000 particles",
+      "1.6 × 10^-19 particles"
+    ],
+    "correctAnswer": "6.022 × 10^23 particles"
+  },
+  {
+    "question": "The molar mass of an element is equal to its:",
+    "answers": [
+      "Atomic number",
+      "Atomic mass in grams/mole",
+      "Number of neutrons",
+      "Density"
+    ],
+    "correctAnswer": "Atomic mass in grams/mole"
+  },
+  {
+    "question": "How many moles are in 36g of water? (H₂O = 18 g/mol)",
+    "answers": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "correctAnswer": "2"
+  },
+  {
+    "question": "Molar volume of a gas at STP is:",
+    "answers": [
+      "11.2 L",
+      "22.4 L",
+      "44.8 L",
+      "1.0 L"
+    ],
+    "correctAnswer": "22.4 L"
+  },
+  {
+    "question": "Stoichiometry is the study of:",
+    "answers": [
+      "Rates of reactions",
+      "Quantitative relationships in chemical reactions",
+      "Color changes",
+      "Atomic structures"
+    ],
+    "correctAnswer": "Quantitative relationships in chemical reactions"
+  },
+  {
+    "question": "The limiting reactant is the one that:",
+    "answers": [
+      "Is left over",
+      "Is used up first",
+      "Has the most mass",
+      "Does not react"
+    ],
+    "correctAnswer": "Is used up first"
+  },
+  {
+    "question": "Theoretical yield is:",
+    "answers": [
+      "The amount actually produced",
+      "The maximum amount possible from calculation",
+      "The percentage of success",
+      "The mass of reactants"
+    ],
+    "correctAnswer": "The maximum amount possible from calculation"
+  },
+  {
+    "question": "Percent yield formula is:",
+    "answers": [
+      "(Actual / Theoretical) × 100",
+      "(Theoretical / Actual) × 100",
+      "Actual + Theoretical",
+      "Actual - Theoretical"
+    ],
+    "correctAnswer": "(Actual / Theoretical) × 100"
+  },
+  {
+    "question": "How many atoms are in 1 mole of Sodium?",
+    "answers": [
+      "6.022 × 10^23",
+      "12.044 × 10^23",
+      "1",
+      "23"
+    ],
+    "correctAnswer": "6.022 × 10^23"
+  },
+  {
+    "question": "In the reaction N₂ + 3H₂ → 2NH₃, the mole ratio of N₂ to H₂ is:",
+    "answers": [
+      "1:1",
+      "1:2",
+      "1:3",
+      "2:3"
+    ],
+    "correctAnswer": "1:3"
+  },
+  {
+    "question": "Solutions are:",
+    "answers": [
+      "Heterogeneous mixtures",
+      "Homogeneous mixtures",
+      "Pure substances",
+      "Suspensions"
+    ],
+    "correctAnswer": "Homogeneous mixtures"
+  },
+  {
+    "question": "The substance being dissolved is the:",
+    "answers": [
+      "Solvent",
+      "Solute",
+      "Catalyst",
+      "Precipitate"
+    ],
+    "correctAnswer": "Solute"
+  },
+  {
+    "question": "Molarity (M) is defined as:",
+    "answers": [
+      "Moles of solute per kg of solvent",
+      "Moles of solute per liter of solution",
+      "Grams of solute per liter",
+      "Volume of solute per volume of solvent"
+    ],
+    "correctAnswer": "Moles of solute per liter of solution"
+  },
+  {
+    "question": "A saturated solution:",
+    "answers": [
+      "Can dissolve more solute",
+      "Contains the maximum amount of solute",
+      "Is very dilute",
+      "Is always hot"
+    ],
+    "correctAnswer": "Contains the maximum amount of solute"
+  },
+  {
+    "question": "Solubility usually increases with:",
+    "answers": [
+      "Decreased temperature for solids",
+      "Increased temperature for solids",
+      "Decreased pressure for gases",
+      "Increased volume"
+    ],
+    "correctAnswer": "Increased temperature for solids"
+  },
+  {
+    "question": "Which of these is a universal solvent?",
+    "answers": [
+      "Alcohol",
+      "Oil",
+      "Water",
+      "Benzene"
+    ],
+    "correctAnswer": "Water"
+  },
+  {
+    "question": "Molality (m) is moles of solute per:",
+    "answers": [
+      "Liter of solution",
+      "Kilogram of solvent",
+      "Gram of solution",
+      "Liter of solvent"
+    ],
+    "correctAnswer": "Kilogram of solvent"
+  },
+  {
+    "question": "Dilution formula is:",
+    "answers": [
+      "M1V1 = M2V2",
+      "M1/V1 = M2/V2",
+      "M1 + V1 = M2 + V2",
+      "M1V2 = M2V1"
+    ],
+    "correctAnswer": "M1V1 = M2V2"
+  },
+  {
+    "question": "Colligative properties depend on:",
+    "answers": [
+      "Identity of solute",
+      "Number of solute particles",
+      "Color of solution",
+      "Type of solvent only"
+    ],
+    "correctAnswer": "Number of solute particles"
+  },
+  {
+    "question": "An example of a colligative property is:",
+    "answers": [
+      "Density",
+      "Boiling point elevation",
+      "Viscosity",
+      "Solubility"
+    ],
+    "correctAnswer": "Boiling point elevation"
+  },
+  {
+    "question": "The rate of reaction is:",
+    "answers": [
+      "The time it takes to finish",
+      "The change in concentration per unit time",
+      "The amount of product formed",
+      "The energy released"
+    ],
+    "correctAnswer": "The change in concentration per unit time"
+  },
+  {
+    "question": "Which factor increases reaction rate?",
+    "answers": [
+      "Decreased temperature",
+      "Increased concentration",
+      "Decreased surface area",
+      "Removal of catalyst"
+    ],
+    "correctAnswer": "Increased concentration"
+  },
+  {
+    "question": "A catalyst works by:",
+    "answers": [
+      "Increasing temperature",
+      "Lowering activation energy",
+      "Being consumed in the reaction",
+      "Changing the products"
+    ],
+    "correctAnswer": "Lowering activation energy"
+  },
+  {
+    "question": "Equilibrium occurs when:",
+    "answers": [
+      "Reaction stops",
+      "Forward and reverse rates are equal",
+      "Reactants are all gone",
+      "Products are all gone"
+    ],
+    "correctAnswer": "Forward and reverse rates are equal"
+  },
+  {
+    "question": "Le Chatelier’s Principle states that a system at equilibrium:",
+    "answers": [
+      "Cannot be changed",
+      "Responds to stress to counteract the change",
+      "Always moves to the right",
+      "Always moves to the left"
+    ],
+    "correctAnswer": "Responds to stress to counteract the change"
+  },
+  {
+    "question": "An exothermic reaction:",
+    "answers": [
+      "Absorbs heat",
+      "Releases heat",
+      "Requires a catalyst",
+      "Has no change in energy"
+    ],
+    "correctAnswer": "Releases heat"
+  },
+  {
+    "question": "In an endothermic reaction, increasing temperature favors:",
+    "answers": [
+      "Reactants",
+      "Products",
+      "Equilibrium",
+      "No change"
+    ],
+    "correctAnswer": "Products"
+  },
+  {
+    "question": "The Equilibrium Constant (Keq) is the ratio of:",
+    "answers": [
+      "Reactants to products",
+      "Products to reactants",
+      "Time to concentration",
+      "Mass to volume"
+    ],
+    "correctAnswer": "Products to reactants"
+  },
+  {
+    "question": "If Keq > 1, the reaction favors:",
+    "answers": [
+      "Reactants",
+      "Products",
+      "Neither",
+      "Catalyst"
+    ],
+    "correctAnswer": "Products"
+  },
+  {
+    "question": "Activation energy is:",
+    "answers": [
+      "Energy released",
+      "Minimum energy needed to start a reaction",
+      "Total energy of products",
+      "Energy of reactants"
+    ],
+    "correctAnswer": "Minimum energy needed to start a reaction"
+  },
+  {
+    "question": "Organic chemistry is the study of:",
+    "answers": [
+      "All elements",
+      "Carbon-based compounds",
+      "Metals only",
+      "Inorganic salts"
+    ],
+    "correctAnswer": "Carbon-based compounds"
+  },
+  {
+    "question": "How many bonds does carbon typically form?",
+    "answers": [
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "correctAnswer": "4"
+  },
+  {
+    "question": "Hydrocarbons contain only:",
+    "answers": [
+      "Carbon and Oxygen",
+      "Carbon and Hydrogen",
+      "Hydrogen and Nitrogen",
+      "Carbon and Nitrogen"
+    ],
+    "correctAnswer": "Carbon and Hydrogen"
+  },
+  {
+    "question": "Alkanes are:",
+    "answers": [
+      "Saturated hydrocarbons (single bonds)",
+      "Unsaturated with double bonds",
+      "Unsaturated with triple bonds",
+      "Cyclic compounds only"
+    ],
+    "correctAnswer": "Saturated hydrocarbons (single bonds)"
+  },
+  {
+    "question": "The functional group -OH represents:",
+    "answers": [
+      "Aldehyde",
+      "Ketone",
+      "Alcohol",
+      "Carboxylic acid"
+    ],
+    "correctAnswer": "Alcohol"
+  },
+  {
+    "question": "Which of these is an alkene?",
+    "answers": [
+      "C₂H₆",
+      "C₂H₄",
+      "C₂H₂",
+      "CH₄"
+    ],
+    "correctAnswer": "C₂H₄"
+  },
+  {
+    "question": "Isomers are compounds with:",
+    "answers": [
+      "Same formula, different structure",
+      "Different formula, same structure",
+      "Same name, different elements",
+      "Same mass, same properties"
+    ],
+    "correctAnswer": "Same formula, different structure"
+  },
+  {
+    "question": "The functional group -COOH is found in:",
+    "answers": [
+      "Alcohols",
+      "Ethers",
+      "Carboxylic acids",
+      "Esters"
+    ],
+    "correctAnswer": "Carboxylic acids"
+  },
+  {
+    "question": "Benzene (C₆H₆) is an example of an:",
+    "answers": [
+      "Alkane",
+      "Alkene",
+      "Aromatic compound",
+      "Alkyne"
+    ],
+    "correctAnswer": "Aromatic compound"
+  },
+  {
+    "question": "Polymers are made of repeating units called:",
+    "answers": [
+      "Isomers",
+      "Monomers",
+      "Isotopes",
+      "Functional groups"
+    ],
+    "correctAnswer": "Monomers"
+  },
+  {
+    "question": "Thermodynamics is the study of:",
+    "answers": [
+      "Chemical names",
+      "Energy and heat transfer",
+      "Atomic orbitals",
+      "Molecular weight"
+    ],
+    "correctAnswer": "Energy and heat transfer"
+  },
+  {
+    "question": "The First Law of Thermodynamics states:",
+    "answers": [
+      "Entropy always increases",
+      "Energy cannot be created or destroyed",
+      "Absolute zero cannot be reached",
+      "Heat flows from cold to hot"
+    ],
+    "correctAnswer": "Energy cannot be created or destroyed"
+  },
+  {
+    "question": "Entropy (S) is a measure of:",
+    "answers": [
+      "Heat content",
+      "Disorder or randomness",
+      "Total energy",
+      "Work done"
+    ],
+    "correctAnswer": "Disorder or randomness"
+  },
+  {
+    "question": "Enthalpy (H) refers to:",
+    "answers": [
+      "Work done by system",
+      "Heat content at constant pressure",
+      "Randomness",
+      "Temperature change"
+    ],
+    "correctAnswer": "Heat content at constant pressure"
+  },
+  {
+    "question": "Gibbs Free Energy (G) determines:",
+    "answers": [
+      "Reaction speed",
+      "Reaction spontaneity",
+      "Molecular mass",
+      "Atomic number"
+    ],
+    "correctAnswer": "Reaction spontaneity"
+  },
+  {
+    "question": "A reaction is spontaneous if ΔG is:",
+    "answers": [
+      "Positive",
+      "Negative",
+      "Zero",
+      "Infinite"
+    ],
+    "correctAnswer": "Negative"
+  },
+  {
+    "question": "Specific heat capacity is:",
+    "answers": [
+      "Total heat in a system",
+      "Heat needed to raise 1g by 1°C",
+      "Boiling point",
+      "Melting point"
+    ],
+    "correctAnswer": "Heat needed to raise 1g by 1°C"
+  },
+  {
+    "question": "An isolated system exchanges:",
+    "answers": [
+      "Energy only",
+      "Matter only",
+      "Neither energy nor matter",
+      "Both energy and matter"
+    ],
+    "correctAnswer": "Neither energy nor matter"
+  },
+  {
+    "question": "The Second Law of Thermodynamics states that the entropy of the universe is:",
+    "answers": [
+      "Decreasing",
+      "Increasing",
+      "Constant",
+      "Zero"
+    ],
+    "correctAnswer": "Increasing"
+  },
+  {
+    "question": "Exergonic reactions:",
+    "answers": [
+      "Absorb energy",
+      "Release free energy",
+      "Are non-spontaneous",
+      "Have ΔG > 0"
+    ],
+    "correctAnswer": "Release free energy"
+  },
+  {
+    "question": "Acids are substances that:",
+    "answers": [
+      "Accept protons",
+      "Donate protons (H+)",
+      "Produce OH- ions",
+      "Have pH > 7"
+    ],
+    "correctAnswer": "Donate protons (H+)"
+  },
+  {
+    "question": "Bases are substances that:",
+    "answers": [
+      "Donate protons",
+      "Accept protons (H+)",
+      "Have pH < 7",
+      "Taste sour"
+    ],
+    "correctAnswer": "Accept protons (H+)"
+  },
+  {
+    "question": "The pH scale ranges from:",
+    "answers": [
+      "0 to 7",
+      "7 to 14",
+      "0 to 14",
+      "1 to 10"
+    ],
+    "correctAnswer": "0 to 14"
+  },
+  {
+    "question": "A neutral solution has a pH of:",
+    "answers": [
+      "0",
+      "1",
+      "7",
+      "14"
+    ],
+    "correctAnswer": "7"
+  },
+  {
+    "question": "Strong acids:",
+    "answers": [
+      "Do not ionize",
+      "Ionize partially",
+      "Ionize completely",
+      "Increase pH"
+    ],
+    "correctAnswer": "Ionize completely"
+  },
+  {
+    "question": "Phenolphthalein turns what color in base?",
+    "answers": [
+      "Colorless",
+      "Yellow",
+      "Pink/Magenta",
+      "Blue"
+    ],
+    "correctAnswer": "Pink/Magenta"
+  },
+  {
+    "question": "Buffers resist changes in:",
+    "answers": [
+      "Temperature",
+      "Volume",
+      "pH",
+      "Pressure"
+    ],
+    "correctAnswer": "pH"
+  },
+  {
+    "question": "A buffer usually contains:",
+    "answers": [
+      "Strong acid only",
+      "Weak acid and its conjugate base",
+      "Strong base only",
+      "Neutral salt"
+    ],
+    "correctAnswer": "Weak acid and its conjugate base"
+  },
+  {
+    "question": "Neutralization reaction produces:",
+    "answers": [
+      "Acid",
+      "Base",
+      "Salt and water",
+      "Gas"
+    ],
+    "correctAnswer": "Salt and water"
+  },
+  {
+    "question": "Titration is used to determine:",
+    "answers": [
+      "pH only",
+      "Unknown concentration",
+      "Molecular mass",
+      "Temperature"
+    ],
+    "correctAnswer": "Unknown concentration"
+  },
+  {
+    "question": "Oxidation is:",
+    "answers": [
+      "Gain of electrons",
+      "Loss of electrons",
+      "Gain of protons",
+      "Loss of neutrons"
+    ],
+    "correctAnswer": "Loss of electrons"
+  },
+  {
+    "question": "Reduction is:",
+    "answers": [
+      "Loss of electrons",
+      "Gain of electrons",
+      "Gain of oxygen",
+      "Loss of hydrogen"
+    ],
+    "correctAnswer": "Gain of electrons"
+  },
+  {
+    "question": "An oxidizing agent:",
+    "answers": [
+      "Loses electrons",
+      "Gains electrons",
+      "Is reduced",
+      "Causes oxidation"
+    ],
+    "correctAnswer": "Causes oxidation"
+  },
+  {
+    "question": "A reducing agent:",
+    "answers": [
+      "Gains electrons",
+      "Is reduced",
+      "Causes reduction",
+      "Loses electrons"
+    ],
+    "correctAnswer": "Loses electrons"
+  },
+  {
+    "question": "Oxidation number indicates:",
+    "answers": [
+      "Atomic mass",
+      "Electron ownership",
+      "Bond strength",
+      "Valence"
+    ],
+    "correctAnswer": "Electron ownership"
+  },
+  {
+    "question": "In Zn + Cu²⁺ → Zn²⁺ + Cu, zinc is:",
+    "answers": [
+      "Reduced",
+      "Oxidized",
+      "Neutral",
+      "Catalyst"
+    ],
+    "correctAnswer": "Oxidized"
+  },
+  {
+    "question": "A precipitation reaction forms:",
+    "answers": [
+      "Gas",
+      "Liquid",
+      "Solid",
+      "Plasma"
+    ],
+    "correctAnswer": "Solid"
+  },
+  {
+    "question": "A precipitate is:",
+    "answers": [
+      "Dissolved solid",
+      "Insoluble solid formed in solution",
+      "Gas bubble",
+      "Liquid product"
+    ],
+    "correctAnswer": "Insoluble solid formed in solution"
+  },
+  {
+    "question": "Precipitation reactions are useful in pharmacy for:",
+    "answers": [
+      "Drug synthesis",
+      "Separation and identification",
+      "Temperature control",
+      "pH measurement"
+    ],
+    "correctAnswer": "Separation and identification"
+  },
+  {
+    "question": "Redox reactions always involve:",
+    "answers": [
+      "Transfer of protons",
+      "Transfer of electrons",
+      "Formation of water only",
+      "Change in state only"
+    ],
+    "correctAnswer": "Transfer of electrons"
+  }
+]

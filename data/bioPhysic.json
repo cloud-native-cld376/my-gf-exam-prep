@@ -1,0 +1,1502 @@
+[
+  {
+    "question": "Biophysics is best described as a field that applies principles of:",
+    "answers": [
+      "Only biology",
+      "Physics and other sciences to biological systems",
+      "Only chemistry",
+      "Only mathematics"
+    ],
+    "correctAnswer": "Physics and other sciences to biological systems"
+  },
+  {
+    "question": "Biophysics integrates knowledge from all EXCEPT:",
+    "answers": [
+      "Physics",
+      "Chemistry",
+      "Engineering",
+      "Astrology"
+    ],
+    "correctAnswer": "Astrology"
+  },
+  {
+    "question": "Biophysicists study biological problems at the level of:",
+    "answers": [
+      "Only organs",
+      "Molecules, cells, and systems",
+      "Only ecosystems",
+      "Only tissues"
+    ],
+    "correctAnswer": "Molecules, cells, and systems"
+  },
+  {
+    "question": "One example of a biophysical study is:",
+    "answers": [
+      "Classifying plants",
+      "Understanding how nerve cells communicate",
+      "Naming organisms",
+      "Studying fossils"
+    ],
+    "correctAnswer": "Understanding how nerve cells communicate"
+  },
+  {
+    "question": "Biophysicists help solve problems related to:",
+    "answers": [
+      "Global hunger",
+      "Disease",
+      "Renewable energy",
+      "All of the above"
+    ],
+    "correctAnswer": "All of the above"
+  },
+  {
+    "question": "Biophysics plays a key role in understanding:",
+    "answers": [
+      "Rock formation",
+      "Weather systems",
+      "DNA structure",
+      "Soil erosion"
+    ],
+    "correctAnswer": "DNA structure"
+  },
+  {
+    "question": "The structure of DNA was solved in:",
+    "answers": [
+      "1901",
+      "1925",
+      "1953",
+      "2000"
+    ],
+    "correctAnswer": "1953"
+  },
+  {
+    "question": "DNA is often described as a:",
+    "answers": [
+      "Protein molecule",
+      "Blueprint for life",
+      "Energy source",
+      "Waste product"
+    ],
+    "correctAnswer": "Blueprint for life"
+  },
+  {
+    "question": "Modern biophysics is important for analyzing:",
+    "answers": [
+      "Small data sets only",
+      "Large biological data sets",
+      "Only fossils",
+      "Weather data"
+    ],
+    "correctAnswer": "Large biological data sets"
+  },
+  {
+    "question": "Computer modeling in biophysics is used to study:",
+    "answers": [
+      "Only plants",
+      "Proteins, viruses, and complex molecules",
+      "Soil microbes only",
+      "Rocks"
+    ],
+    "correctAnswer": "Proteins, viruses, and complex molecules"
+  },
+  {
+    "question": "Computer models help biophysicists to:",
+    "answers": [
+      "Grow plants",
+      "Cure diseases directly",
+      "Visualize molecular structures",
+      "Measure rainfall"
+    ],
+    "correctAnswer": "Visualize molecular structures"
+  },
+  {
+    "question": "Studying \"molecules in motion\" helps understand:",
+    "answers": [
+      "Photosynthesis only",
+      "Cell communication and transport",
+      "Cell division only",
+      "Evolution"
+    ],
+    "correctAnswer": "Cell communication and transport"
+  },
+  {
+    "question": "Fluorescent tags are used to:",
+    "answers": [
+      "Kill cells",
+      "Make cells visible under microscopes",
+      "Measure temperature",
+      "Detect sound"
+    ],
+    "correctAnswer": "Make cells visible under microscopes"
+  },
+  {
+    "question": "Fluorescent tagging allows scientists to:",
+    "answers": [
+      "Stop cell division",
+      "Destroy proteins",
+      "Track movement inside cells",
+      "Measure gravity"
+    ],
+    "correctAnswer": "Track movement inside cells"
+  },
+  {
+    "question": "In neuroscience, biophysicists develop:",
+    "answers": [
+      "Chemical equations",
+      "Fossil records",
+      "Neural network models",
+      "Weather models"
+    ],
+    "correctAnswer": "Neural network models"
+  },
+  {
+    "question": "Neural networks are used to model:",
+    "answers": [
+      "Plant growth",
+      "Brain and nervous system functions",
+      "Soil composition",
+      "Air pollution"
+    ],
+    "correctAnswer": "Brain and nervous system functions"
+  },
+  {
+    "question": "Biophysics contributes to bioengineering through:",
+    "answers": [
+      "Farming techniques",
+      "Nanotechnology and biomaterials",
+      "Mining methods",
+      "Forestry"
+    ],
+    "correctAnswer": "Nanotechnology and biomaterials"
+  },
+  {
+    "question": "Nanomaterials in biophysics are often designed for:",
+    "answers": [
+      "Construction only",
+      "Drug delivery",
+      "Painting",
+      "Fuel storage only"
+    ],
+    "correctAnswer": "Drug delivery"
+  },
+  {
+    "question": "Imaging techniques developed using biophysics include:",
+    "answers": [
+      "X-rays only",
+      "Ultrasound only",
+      "MRI, CT, and PET scans",
+      "Photography"
+    ],
+    "correctAnswer": "MRI, CT, and PET scans"
+  },
+  {
+    "question": "Medical imaging helps to:",
+    "answers": [
+      "Grow tissues",
+      "Study internal body structures",
+      "Change DNA",
+      "Cure diseases instantly"
+    ],
+    "correctAnswer": "Study internal body structures"
+  },
+  {
+    "question": "Biophysics has contributed to medical devices such as:",
+    "answers": [
+      "Thermometers",
+      "Pacemakers and defibrillators",
+      "Hearing aids only",
+      "Stethoscopes"
+    ],
+    "correctAnswer": "Pacemakers and defibrillators"
+  },
+  {
+    "question": "Kidney dialysis is an application of:",
+    "answers": [
+      "Botany",
+      "Zoology",
+      "Biophysics",
+      "Ecology"
+    ],
+    "correctAnswer": "Biophysics"
+  },
+  {
+    "question": "Environmental biophysics studies:",
+    "answers": [
+      "Only forests",
+      "Physical processes in ecosystems",
+      "Animal behavior only",
+      "Fossils"
+    ],
+    "correctAnswer": "Physical processes in ecosystems"
+  },
+  {
+    "question": "Environmental biophysicists may study:",
+    "answers": [
+      "Stars",
+      "Pollutant movement in the atmosphere",
+      "Volcanoes",
+      "Earthquakes"
+    ],
+    "correctAnswer": "Pollutant movement in the atmosphere"
+  },
+  {
+    "question": "Biophysicists work in all of the following places EXСЕРТ:",
+    "answers": [
+      "Universities",
+      "Hospitals",
+      "Research labs",
+      "Astrology centers"
+    ],
+    "correctAnswer": "Astrology centers"
+  },
+  {
+    "question": "One role of biophysicists in industry is:",
+    "answers": [
+      "Crop harvesting",
+      "Drug discovery and development",
+      "Mining",
+      "Textile manufacturing"
+    ],
+    "correctAnswer": "Drug discovery and development"
+  },
+  {
+    "question": "High-throughput automation is designed to:",
+    "answers": [
+      "Reduce productivity",
+      "Increase laboratory efficiency",
+      "Increase errors",
+      "Slow experiments"
+    ],
+    "correctAnswer": "Increase laboratory efficiency"
+  },
+  {
+    "question": "High-throughput automation is widely used in:",
+    "answers": [
+      "Agriculture only",
+      "Pharmaceutical industry",
+      "Meteorology",
+      "Architecture"
+    ],
+    "correctAnswer": "Pharmaceutical industry"
+  },
+  {
+    "question": "The main advantage of high-throughput automation is:",
+    "answers": [
+      "Increased cost",
+      "Faster and more reliable data generation",
+      "More human labor",
+      "Reduced accuracy"
+    ],
+    "correctAnswer": "Faster and more reliable data generation"
+  },
+  {
+    "question": "One benefit of automation is:",
+    "answers": [
+      "Increased human error",
+      "Reduced sample processing",
+      "Processing many samples simultaneously",
+      "Manual control"
+    ],
+    "correctAnswer": "Processing many samples simultaneously"
+  },
+  {
+    "question": "Automation helps laboratories to:",
+    "answers": [
+      "Increase variability",
+      "Reduce error rates",
+      "Waste reagents",
+      "Slow workflows"
+    ],
+    "correctAnswer": "Reduce error rates"
+  },
+  {
+    "question": "Techniques like mass spectrometry are used in:",
+    "answers": [
+      "Agriculture",
+      "Drug discovery and development",
+      "Geography",
+      "Sociology"
+    ],
+    "correctAnswer": "Drug discovery and development"
+  },
+  {
+    "question": "Electron microscopy helps in studying:",
+    "answers": [
+      "Weather systems",
+      "Plant height",
+      "Molecular and cellular structures",
+      "Soil moisture"
+    ],
+    "correctAnswer": "Molecular and cellular structures"
+  },
+  {
+    "question": "Biophysical methods help in drug design by:",
+    "answers": [
+      "Naming drugs",
+      "Detecting drug-target binding",
+      "Marketing drugs",
+      "Packaging medicines"
+    ],
+    "correctAnswer": "Detecting drug-target binding"
+  },
+  {
+    "question": "Hit identification refers to:",
+    "answers": [
+      "Drug marketing",
+      "Detecting small molecules binding to targets",
+      "Toxicity testing only",
+      "Packaging drugs"
+    ],
+    "correctAnswer": "Detecting small molecules binding to targets"
+  },
+  {
+    "question": "Hit-to-lead progression involves:",
+    "answers": [
+      "Visual observation only",
+      "Quantitative measurement of binding parameters",
+      "Drug naming",
+      "Advertising"
+    ],
+    "correctAnswer": "Quantitative measurement of binding parameters"
+  },
+  {
+    "question": "Biophysical measurements help in:",
+    "answers": [
+      "Weather prediction",
+      "Understanding drug-receptor interactions",
+      "Crop yield estimation",
+      "Fossil dating"
+    ],
+    "correctAnswer": "Understanding drug-receptor interactions"
+  },
+  {
+    "question": "ADMET stands for:",
+    "answers": [
+      "Absorption, Delivery, Method, Elimination, Toxicity",
+      "Absorption, Distribution, Metabolism, Excretion, Toxicity",
+      "Analysis, Design, Method, Evaluation, Testing",
+      "None of the above"
+    ],
+    "correctAnswer": "Absorption, Distribution, Metabolism, Excretion, Toxicity"
+  },
+  {
+    "question": "DMPK refers to the study of:",
+    "answers": [
+      "Plant growth",
+      "Animal behavior",
+      "Drug metabolism and pharmacokinetics",
+      "Soil chemistry"
+    ],
+    "correctAnswer": "Drug metabolism and pharmacokinetics"
+  },
+  {
+    "question": "Biophysics is considered a frontier science because it:",
+    "answers": [
+      "Studies only old problems",
+      "Avoids technology",
+      "Transforms biological research using physical principles",
+      "Is limited to laboratories"
+    ],
+    "correctAnswer": "Transforms biological research using physical principles"
+  },
+  {
+    "question": "Surface phenomena mainly deal with behaviors occurring at the:",
+    "answers": [
+      "Center of materials",
+      "Boundary between two phases",
+      "Atomic nucleus",
+      "Core of solids"
+    ],
+    "correctAnswer": "Boundary between two phases"
+  },
+  {
+    "question": "An interface is defined as:",
+    "answers": [
+      "A chemical bond",
+      "The boundary between two phases",
+      "The interior of a substance",
+      "A mixture of gases"
+    ],
+    "correctAnswer": "The boundary between two phases"
+  },
+  {
+    "question": "Which of the following interfaces is NOT possible?",
+    "answers": [
+      "Gas-liquid",
+      "Liquid-solid",
+      "Gas-gas",
+      "Solid-solid"
+    ],
+    "correctAnswer": "Gas-gas"
+  },
+  {
+    "question": "Surface tension is best defined as:",
+    "answers": [
+      "Energy inside the liquid",
+      "Force acting along the surface of a liquid",
+      "Pressure inside a liquid",
+      "Volume of liquid"
+    ],
+    "correctAnswer": "Force acting along the surface of a liquid"
+  },
+  {
+    "question": "Surface tension exists at the interface between:",
+    "answers": [
+      "Solid and solid",
+      "Liquid and gas",
+      "Gas and gas",
+      "Solid and liquid"
+    ],
+    "correctAnswer": "Liquid and gas"
+  },
+  {
+    "question": "Molecules at the surface of a liquid experience:",
+    "answers": [
+      "Balanced forces",
+      "Unbalanced inward forces",
+      "No forces",
+      "Outward forces only"
+    ],
+    "correctAnswer": "Unbalanced inward forces"
+  },
+  {
+    "question": "High surface tension indicates that a liquid:",
+    "answers": [
+      "Mixes easily with other phases",
+      "Is less likely to mix with another phase",
+      "Has low cohesion",
+      "Evaporates quickly"
+    ],
+    "correctAnswer": "Is less likely to mix with another phase"
+  },
+  {
+    "question": "Interfacial tension exists between:",
+    "answers": [
+      "Two miscible liquids",
+      "Two immiscible liquids",
+      "Gas and gas",
+      "Solid and solid only"
+    ],
+    "correctAnswer": "Two immiscible liquids"
+  },
+  {
+    "question": "Interfacial tension is generally:",
+    "answers": [
+      "Higher than surface tension",
+      "Lower than surface tension",
+      "Equal to surface tension",
+      "Zero in all cases"
+    ],
+    "correctAnswer": "Lower than surface tension"
+  },
+  {
+    "question": "If two liquids are completely miscible, the interfacial tension is:",
+    "answers": [
+      "Very high",
+      "Zero",
+      "Moderate",
+      "Unchanged"
+    ],
+    "correctAnswer": "Zero"
+  },
+  {
+    "question": "Adhesive forces mainly influence:",
+    "answers": [
+      "Surface tension only",
+      "Interfacial tension",
+      "Bulk viscosity",
+      "Density"
+    ],
+    "correctAnswer": "Interfacial tension"
+  },
+  {
+    "question": "Surface phenomena are important in pharmacy because they affect:",
+    "answers": [
+      "Color of drugs",
+      "Stability and bioavailability of drugs",
+      "Taste only",
+      "Packaging only"
+    ],
+    "correctAnswer": "Stability and bioavailability of drugs"
+  },
+  {
+    "question": "Emulsion formation is an application of:",
+    "answers": [
+      "Osmosis",
+      "Interfacial phenomena",
+      "Diffusion",
+      "Sedimentation"
+    ],
+    "correctAnswer": "Interfacial phenomena"
+  },
+  {
+    "question": "Surface free energy refers to:",
+    "answers": [
+      "Energy inside molecules",
+      "Energy required to increase surface area",
+      "Energy of bulk liquid",
+      "Heat energy only"
+    ],
+    "correctAnswer": "Energy required to increase surface area"
+  },
+  {
+    "question": "Surface free energy is high when a liquid:",
+    "answers": [
+      "Beads up on a surface",
+      "Spreads over a surface",
+      "Forms droplets",
+      "Evaporates quickly"
+    ],
+    "correctAnswer": "Beads up on a surface"
+  },
+  {
+    "question": "The formula for surface free energy is:",
+    "answers": [
+      "W=γ/A",
+      "W=γ×ΔA",
+      "W=A/γ",
+      "W=γ-A"
+    ],
+    "correctAnswer": "W=γ×ΔA"
+  },
+  {
+    "question": "Contact angle is the angle between:",
+    "answers": [
+      "Two solids",
+      "Liquid-vapor interface and solid surface",
+      "Liquid-liquid interface",
+      "Solid-gas interface"
+    ],
+    "correctAnswer": "Liquid-vapor interface and solid surface"
+  },
+  {
+    "question": "A contact angle less than 90° indicates the surface is:",
+    "answers": [
+      "Hydrophobic",
+      "Hydrophilic",
+      "Non-wettable",
+      "Neutral"
+    ],
+    "correctAnswer": "Hydrophilic"
+  },
+  {
+    "question": "A contact angle greater than 90° indicates the surface is:",
+    "answers": [
+      "Hydrophilic",
+      "Hydrophobic",
+      "Completely wettable",
+      "Highly soluble"
+    ],
+    "correctAnswer": "Hydrophobic"
+  },
+  {
+    "question": "In pharmaceutics, contact angle is useful for determining:",
+    "answers": [
+      "Drug color",
+      "Wettability of solids",
+      "Molecular weight",
+      "Drug taste"
+    ],
+    "correctAnswer": "Wettability of solids"
+  },
+  {
+    "question": "Melting point is defined as the temperature at which a:",
+    "answers": [
+      "Liquid changes to gas",
+      "Solid changes into a liquid under standard pressure",
+      "Gas changes to liquid",
+      "Liquid changes to solid"
+    ],
+    "correctAnswer": "Solid changes into a liquid under standard pressure"
+  },
+  {
+    "question": "Solidification point is also known as the:",
+    "answers": [
+      "Boiling point",
+      "Freezing point",
+      "Sublimation point",
+      "Transition point"
+    ],
+    "correctAnswer": "Freezing point"
+  },
+  {
+    "question": "In pharmaceutical sciences, melting point is used as an index of:",
+    "answers": [
+      "Color and taste",
+      "Identity, purity, and stability",
+      "Solubility only",
+      "Toxicity only"
+    ],
+    "correctAnswer": "Identity, purity, and stability"
+  },
+  {
+    "question": "A pure substance generally shows a melting point that is:",
+    "answers": [
+      "Broad and variable",
+      "Sharp and fixed",
+      "Very low",
+      "Very high"
+    ],
+    "correctAnswer": "Sharp and fixed"
+  },
+  {
+    "question": "Presence of impurities in a substance usually causes the melting point to:",
+    "answers": [
+      "Increase sharply",
+      "Decrease and broaden",
+      "Remain unchanged",
+      "Become infinite"
+    ],
+    "correctAnswer": "Decrease and broaden"
+  },
+  {
+    "question": "Which factor does NOT significantly affect melting point?",
+    "answers": [
+      "Intermolecular forces",
+      "Molecular weight",
+      "Color of the substance",
+      "Purity"
+    ],
+    "correctAnswer": "Color of the substance"
+  },
+  {
+    "question": "One pharmaceutical application of melting point determination is:",
+    "answers": [
+      "Measuring drug taste",
+      "Identity testing of pure drugs",
+      "Measuring viscosity",
+      "Measuring pH"
+    ],
+    "correctAnswer": "Identity testing of pure drugs"
+  },
+  {
+    "question": "Solidification point is especially useful for determining properties of:",
+    "answers": [
+      "Gases",
+      "Oils, fats, and waxes",
+      "Tablets only",
+      "Syrups only"
+    ],
+    "correctAnswer": "Oils, fats, and waxes"
+  },
+  {
+    "question": "Solidification point may differ slightly from melting point due to:",
+    "answers": [
+      "Evaporation",
+      "Supercooling",
+      "Oxidation",
+      "Hydrolysis"
+    ],
+    "correctAnswer": "Supercooling"
+  },
+  {
+    "question": "Solidification point is important in pharmacy to ensure:",
+    "answers": [
+      "Drug color stability",
+      "Stability of formulations",
+      "Drug flavor",
+      "Packaging quality"
+    ],
+    "correctAnswer": "Stability of formulations"
+  },
+  {
+    "question": "Melting point determination helps in selecting excipients for:",
+    "answers": [
+      "Injections only",
+      "Ointments, creams, and suppositories",
+      "Eye drops only",
+      "Tablets only"
+    ],
+    "correctAnswer": "Ointments, creams, and suppositories"
+  },
+  {
+    "question": "Pharmacopeias include melting point tests mainly for:",
+    "answers": [
+      "Appearance testing",
+      "Quality control",
+      "Packaging standards",
+      "Labeling rules"
+    ],
+    "correctAnswer": "Quality control"
+  },
+  {
+    "question": "A wide melting range in a sample indicates:",
+    "answers": [
+      "High purity",
+      "Presence of impurities",
+      "High molecular weight",
+      "Correct identity"
+    ],
+    "correctAnswer": "Presence of impurities"
+  },
+  {
+    "question": "Cocoa butter is used in suppositories because it melts at:",
+    "answers": [
+      "20-25°C",
+      "25-30°C",
+      "34-36°C",
+      "40-45°C"
+    ],
+    "correctAnswer": "34-36°C"
+  },
+  {
+    "question": "Cocoa butter is also known as:",
+    "answers": [
+      "Lanolin",
+      "Paraffin wax",
+      "Theobroma oil",
+      "Beeswax"
+    ],
+    "correctAnswer": "Theobroma oil"
+  },
+  {
+    "question": "Melting point of amoxicillin is used primarily for:",
+    "answers": [
+      "Solubility testing",
+      "Purity checking",
+      "Flavor testing",
+      "Dose determination"
+    ],
+    "correctAnswer": "Purity checking"
+  },
+  {
+    "question": "Waxes used in pharmacy require controlled solidification point to ensure:",
+    "answers": [
+      "Color",
+      "Proper hardness and texture",
+      "Odor",
+      "Taste"
+    ],
+    "correctAnswer": "Proper hardness and texture"
+  },
+  {
+    "question": "Which of the following is TRUE about melting and solidification points?",
+    "answers": [
+      "They are unrelated",
+      "They are usually close in value",
+      "Solidification point is always higher",
+      "Melting point is always lower"
+    ],
+    "correctAnswer": "They are usually close in value"
+  },
+  {
+    "question": "Accurate determination of MP and SP ensures:",
+    "answers": [
+      "Better packaging",
+      "Better labeling",
+      "Safety, stability, and effectiveness of medicines",
+      "Lower cost only"
+    ],
+    "correctAnswer": "Safety, stability, and effectiveness of medicines"
+  },
+  {
+    "question": "Melting point and solidification point are best described as:",
+    "answers": [
+      "Chemical constants",
+      "Physical constants",
+      "Biological constants",
+      "Optical constants"
+    ],
+    "correctAnswer": "Physical constants"
+  },
+  {
+    "question": "A colloidal solution is a type of mixture in which:",
+    "answers": [
+      "One substance is completely dissolved in another",
+      "One substance is finely dispersed but not dissolved in another",
+      "Two solids are mixed together",
+      "Gases are chemically combined"
+    ],
+    "correctAnswer": "One substance is finely dispersed but not dissolved in another"
+  },
+  {
+    "question": "The particle size range of a colloidal system is:",
+    "answers": [
+      "Less than 1 nm",
+      "1 nm to 1000 nm",
+      "Greater than 1000 nm",
+      "Exactly 1000 nm"
+    ],
+    "correctAnswer": "1 nm to 1000 nm"
+  },
+  {
+    "question": "Which of the following best describes a suspension?",
+    "answers": [
+      "Homogeneous mixture with very small particles",
+      "Heterogeneous mixture with particles larger than 1000 nm",
+      "True solution",
+      "Molecular dispersion"
+    ],
+    "correctAnswer": "Heterogeneous mixture with particles larger than 1000 nm"
+  },
+  {
+    "question": "A key difference between colloids and suspensions is that colloids:",
+    "answers": [
+      "Settle rapidly on standing",
+      "Do not settle on standing",
+      "Are always transparent",
+      "Have visible particles"
+    ],
+    "correctAnswer": "Do not settle on standing"
+  },
+  {
+    "question": "The scattering of light by colloidal particles is known as:",
+    "answers": [
+      "Brownian movement",
+      "Tyndall effect",
+      "Diffusion",
+      "Sedimentation"
+    ],
+    "correctAnswer": "Tyndall effect"
+  },
+  {
+    "question": "Which of the following systems shows the Tyndall effect?",
+    "answers": [
+      "True solution",
+      "Colloidal solution",
+      "Pure solvent",
+      "Crystalline solid"
+    ],
+    "correctAnswer": "Colloidal solution"
+  },
+  {
+    "question": "The dispersed phase in a colloidal system is:",
+    "answers": [
+      "The major component",
+      "The finely divided substance",
+      "The continuous medium",
+      "Always a liquid"
+    ],
+    "correctAnswer": "The finely divided substance"
+  },
+  {
+    "question": "The dispersion medium in a colloidal system is:",
+    "answers": [
+      "The solid particles",
+      "The continuous phase",
+      "Always a gas",
+      "Always water"
+    ],
+    "correctAnswer": "The continuous phase"
+  },
+  {
+    "question": "In a colloidal solution, the dispersed phase is generally the:",
+    "answers": [
+      "Larger quantity",
+      "Smaller quantity",
+      "Equal in amount",
+      "Only solid"
+    ],
+    "correctAnswer": "Smaller quantity"
+  },
+  {
+    "question": "Which of the following is an example of a pharmaceutical colloid?",
+    "answers": [
+      "Amoxicillin suspension",
+      "Silver sulfadiazine cream",
+      "Sugar solution",
+      "Sodium chloride solution"
+    ],
+    "correctAnswer": "Silver sulfadiazine cream"
+  },
+  {
+    "question": "A colloidal system appears homogeneous to the naked eye because:",
+    "answers": [
+      "Particles are dissolved",
+      "Particles are very small",
+      "It is a true solution",
+      "It is chemically uniform"
+    ],
+    "correctAnswer": "Particles are very small"
+  },
+  {
+    "question": "Under a microscope, a colloidal solution appears heterogeneous because:",
+    "answers": [
+      "It contains ions",
+      "Dispersed particles can be seen",
+      "Light passes through",
+      "It evaporates quickly"
+    ],
+    "correctAnswer": "Dispersed particles can be seen"
+  },
+  {
+    "question": "A solid dispersed in a solid medium forms a:",
+    "answers": [
+      "Emulsion",
+      "Aerosol",
+      "Solid solution",
+      "Foam"
+    ],
+    "correctAnswer": "Solid solution"
+  },
+  {
+    "question": "An alloy is an example of a:",
+    "answers": [
+      "Gel",
+      "Foam",
+      "Solid solution",
+      "Emulsion"
+    ],
+    "correctAnswer": "Solid solution"
+  },
+  {
+    "question": "An aerosol is a colloidal system in which the dispersion medium is:",
+    "answers": [
+      "Liquid",
+      "Gas",
+      "Solid",
+      "Plasma"
+    ],
+    "correctAnswer": "Gas"
+  },
+  {
+    "question": "Which of the following is an example of an aerosol used in pharmacy?",
+    "answers": [
+      "Syrup",
+      "Salbutamol inhalation",
+      "Ointment",
+      "Tablet"
+    ],
+    "correctAnswer": "Salbutamol inhalation"
+  },
+  {
+    "question": "Foam is a colloidal system in which:",
+    "answers": [
+      "Liquid is dispersed in gas",
+      "Gas is dispersed in liquid or solid",
+      "Solid is dispersed in liquid",
+      "Liquid is dispersed in liquid"
+    ],
+    "correctAnswer": "Gas is dispersed in liquid or solid"
+  },
+  {
+    "question": "Shaving cream is an example of:",
+    "answers": [
+      "Gel",
+      "Emulsion",
+      "Foam",
+      "Aerosol"
+    ],
+    "correctAnswer": "Foam"
+  },
+  {
+    "question": "A hydrocolloid is a colloid in which the dispersion medium is:",
+    "answers": [
+      "Oil",
+      "Alcohol",
+      "Water",
+      "Air"
+    ],
+    "correctAnswer": "Water"
+  },
+  {
+    "question": "Emulsions are colloidal systems consisting of:",
+    "answers": [
+      "Solid in solid",
+      "Gas in liquid",
+      "Liquid dispersed in another liquid",
+      "Solid in gas"
+    ],
+    "correctAnswer": "Liquid dispersed in another liquid"
+  },
+  {
+    "question": "Colloidal solutions appear homogeneous to the naked eye but are actually heterogeneous because:",
+    "answers": [
+      "Their particles are dissolved completely",
+      "Their dispersed particles are visible only under high-power microscopes",
+      "They contain only one phase",
+      "They behave like true solutions"
+    ],
+    "correctAnswer": "Their dispersed particles are visible only under high-power microscopes"
+  },
+  {
+    "question": "Which feature MOST clearly distinguishes a colloid from a true solution?",
+    "answers": [
+      "Stability",
+      "Particle motion",
+      "Ability to scatter light",
+      "Presence of solvent"
+    ],
+    "correctAnswer": "Ability to scatter light"
+  },
+  {
+    "question": "The size of dispersed particles in a colloidal solution generally lies between:",
+    "answers": [
+      "Less than 1 nm",
+      "1 nm and 100 nm",
+      "1000 nm and 10,000 nm",
+      "Greater than 1 μm"
+    ],
+    "correctAnswer": "1 nm and 100 nm"
+  },
+  {
+    "question": "The Tyndall effect is caused due to:",
+    "answers": [
+      "Reflection of light",
+      "Scattering of light by colloidal particles",
+      "Absorption of light",
+      "Refraction of light"
+    ],
+    "correctAnswer": "Scattering of light by colloidal particles"
+  },
+  {
+    "question": "Which of the following systems will NOT show the Tyndall effect?",
+    "answers": [
+      "Milk",
+      "Starch solution",
+      "Sodium chloride solution",
+      "Soap solution"
+    ],
+    "correctAnswer": "Sodium chloride solution"
+  },
+  {
+    "question": "Which statement correctly explains why colloids cannot be separated by ordinary filtration?",
+    "answers": [
+      "Particles are too heavy",
+      "Particles are smaller than pores of filter paper",
+      "They are chemically bonded",
+      "Particles dissolve during filtration"
+    ],
+    "correctAnswer": "Particles are smaller than pores of filter paper"
+  },
+  {
+    "question": "The stabilising agent in a colloidal solution mainly functions to:",
+    "answers": [
+      "Increase particle size",
+      "Cause coagulation",
+      "Prevent aggregation of dispersed particles",
+      "Change dispersion medium"
+    ],
+    "correctAnswer": "Prevent aggregation of dispersed particles"
+  },
+  {
+    "question": "Blood is classified as a colloidal solution because:",
+    "answers": [
+      "It is transparent",
+      "Cells and proteins are dispersed in plasma",
+      "It contains salts",
+      "It is homogeneous"
+    ],
+    "correctAnswer": "Cells and proteins are dispersed in plasma"
+  },
+  {
+    "question": "Which colloidal system consists of a solid dispersed in a liquid?",
+    "answers": [
+      "Emulsion",
+      "Sol",
+      "Foam",
+      "Aerosol"
+    ],
+    "correctAnswer": "Sol"
+  },
+  {
+    "question": "Ink is best classified as a:",
+    "answers": [
+      "True solution",
+      "Sol (solid in liquid)",
+      "Emulsion",
+      "Gel"
+    ],
+    "correctAnswer": "Sol (solid in liquid)"
+  },
+  {
+    "question": "Which of the following represents a solid sol?",
+    "answers": [
+      "Milk",
+      "Smoke",
+      "Coloured gemstones",
+      "Shaving cream"
+    ],
+    "correctAnswer": "Coloured gemstones"
+  },
+  {
+    "question": "Smoke is an example of a colloid where:",
+    "answers": [
+      "Liquid is dispersed in gas",
+      "Solid is dispersed in gas",
+      "Gas is dispersed in liquid",
+      "Liquid is dispersed in solid"
+    ],
+    "correctAnswer": "Solid is dispersed in gas"
+  },
+  {
+    "question": "Milk is considered an emulsion because it consists of:",
+    "answers": [
+      "Gas dispersed in liquid",
+      "Liquid fat droplets dispersed in water",
+      "Solid protein in liquid",
+      "Solid in solid"
+    ],
+    "correctAnswer": "Liquid fat droplets dispersed in water"
+  },
+  {
+    "question": "Which of the following is a solid foam?",
+    "answers": [
+      "Soap lather",
+      "Fog",
+      "Sponge",
+      "Milk"
+    ],
+    "correctAnswer": "Sponge"
+  },
+  {
+    "question": "A gel differs from a sol mainly because in a gel:",
+    "answers": [
+      "Dispersion medium is gas",
+      "Solid forms a continuous network",
+      "Particles are dissolved",
+      "It is unstable"
+    ],
+    "correctAnswer": "Solid forms a continuous network"
+  },
+  {
+    "question": "Which property contributes MOST to the stability of colloidal solutions?",
+    "answers": [
+      "Large particle size",
+      "Sedimentation",
+      "Constant random motion of particles",
+      "High density"
+    ],
+    "correctAnswer": "Constant random motion of particles"
+  },
+  {
+    "question": "Brownian motion in colloids helps to:",
+    "answers": [
+      "Cause coagulation",
+      "Prevent settling of particles",
+      "Increase viscosity",
+      "Reduce surface area"
+    ],
+    "correctAnswer": "Prevent settling of particles"
+  },
+  {
+    "question": "Which of the following statements about colloids is INCORRECT?",
+    "answers": [
+      "They scatter light",
+      "They are stable systems",
+      "They can be separated easily by filtration",
+      "They appear homogeneous"
+    ],
+    "correctAnswer": "They can be separated easily by filtration"
+  },
+  {
+    "question": "Soap solution behaves as a colloid because:",
+    "answers": [
+      "Soap dissolves completely",
+      "Soap molecules form micelles",
+      "It is a suspension",
+      "It has large particles"
+    ],
+    "correctAnswer": "Soap molecules form micelles"
+  },
+  {
+    "question": "The most appropriate reason for classifying colloids separately from true solutions is:",
+    "answers": [
+      "Chemical composition",
+      "Colour",
+      "Intermediate particle size and unique physical behavior",
+      "Taste"
+    ],
+    "correctAnswer": "Intermediate particle size and unique physical behavior"
+  },
+  {
+    "question": "The International System of Units is commonly known as the:",
+    "answers": [
+      "FPS system",
+      "Metric system",
+      "CGS system",
+      "British system"
+    ],
+    "correctAnswer": "Metric system"
+  },
+  {
+    "question": "SI units are internationally accepted mainly for:",
+    "answers": [
+      "Local trade",
+      "Scientific and technological measurements",
+      "Astrology",
+      "Art measurements"
+    ],
+    "correctAnswer": "Scientific and technological measurements"
+  },
+  {
+    "question": "How many base units are there in the SI system?",
+    "answers": [
+      "Five",
+      "Six",
+      "Seven",
+      "Eight"
+    ],
+    "correctAnswer": "Seven"
+  },
+  {
+    "question": "Which of the following is an SI base quantity?",
+    "answers": [
+      "Volume",
+      "Length",
+      "Pressure",
+      "Density"
+    ],
+    "correctAnswer": "Length"
+  },
+  {
+    "question": "The SI unit of mass is:",
+    "answers": [
+      "Gram",
+      "Kilogram",
+      "Pound",
+      "Tonne"
+    ],
+    "correctAnswer": "Kilogram"
+  },
+  {
+    "question": "The SI unit of time is:",
+    "answers": [
+      "Minute",
+      "Hour",
+      "Second",
+      "Day"
+    ],
+    "correctAnswer": "Second"
+  },
+  {
+    "question": "Which SI base unit is used for thermodynamic temperature?",
+    "answers": [
+      "Degree Celsius",
+      "Kelvin",
+      "Fahrenheit",
+      "Joule"
+    ],
+    "correctAnswer": "Kelvin"
+  },
+  {
+    "question": "The SI unit for amount of substance is:",
+    "answers": [
+      "Gram",
+      "Mole",
+      "Equivalent",
+      "Liter"
+    ],
+    "correctAnswer": "Mole"
+  },
+  {
+    "question": "Luminous intensity in the SI system is measured in:",
+    "answers": [
+      "Lux",
+      "Lumen",
+      "Candela",
+      "Watt"
+    ],
+    "correctAnswer": "Candela"
+  },
+  {
+    "question": "Which of the following is NOT an SI base unit?",
+    "answers": [
+      "Ampere",
+      "Kelvin",
+      "Liter",
+      "Mole"
+    ],
+    "correctAnswer": "Liter"
+  },
+  {
+    "question": "Normality is defined as the number of:",
+    "answers": [
+      "Moles per liter",
+      "Equivalents per liter of solution",
+      "Grams per liter",
+      "Milligrams per liter"
+    ],
+    "correctAnswer": "Equivalents per liter of solution"
+  },
+  {
+    "question": "Molarity expresses concentration as:",
+    "answers": [
+      "Equivalents per liter",
+      "Moles of solute per liter of solution",
+      "Grams per 100 mL",
+      "Percentage by weight"
+    ],
+    "correctAnswer": "Moles of solute per liter of solution"
+  },
+  {
+    "question": "The relationship between normality (N) and molarity (M) depends on the:",
+    "answers": [
+      "Volume of solution",
+      "Temperature",
+      "Equivalent factor of solute",
+      "Density"
+    ],
+    "correctAnswer": "Equivalent factor of solute"
+  },
+  {
+    "question": "Which unit is accepted for use with SI but is NOT an SI unit?",
+    "answers": [
+      "Meter",
+      "Kilogram",
+      "Liter",
+      "Second"
+    ],
+    "correctAnswer": "Liter"
+  },
+  {
+    "question": "The unit \"bar\" is commonly used to measure:",
+    "answers": [
+      "Volume",
+      "Pressure",
+      "Temperature",
+      "Mass"
+    ],
+    "correctAnswer": "Pressure"
+  },
+  {
+    "question": "mmHg is a unit of:",
+    "answers": [
+      "Density",
+      "Temperature",
+      "Pressure",
+      "Energy"
+    ],
+    "correctAnswer": "Pressure"
+  },
+  {
+    "question": "The unit mEq/L is commonly used to express:",
+    "answers": [
+      "Enzyme activity",
+      "Electrolyte concentration",
+      "Drug dose",
+      "Volume"
+    ],
+    "correctAnswer": "Electrolyte concentration"
+  },
+  {
+    "question": "IU/mL is commonly used for measuring:",
+    "answers": [
+      "Mass",
+      "Volume",
+      "Biological activity of substances",
+      "Pressure"
+    ],
+    "correctAnswer": "Biological activity of substances"
+  },
+  {
+    "question": "ng/L is a unit expressing:",
+    "answers": [
+      "Volume",
+      "Very low concentration",
+      "Time",
+      "Temperature"
+    ],
+    "correctAnswer": "Very low concentration"
+  },
+  {
+    "question": "RPM stands for:",
+    "answers": [
+      "Rate per minute",
+      "Revolutions per minute",
+      "Rotations per meter",
+      "Radius per minute"
+    ],
+    "correctAnswer": "Revolutions per minute"
+  },
+  {
+    "question": "RPM is commonly used to express the speed of:",
+    "answers": [
+      "Pumps",
+      "Centrifuges",
+      "Heaters",
+      "Mixers only"
+    ],
+    "correctAnswer": "Centrifuges"
+  },
+  {
+    "question": "A low-speed centrifuge usually operates at about:",
+    "answers": [
+      "50 RPM",
+      "300 RPM",
+      "50,000 RPM",
+      "150,000 RPM"
+    ],
+    "correctAnswer": "300 RPM"
+  },
+  {
+    "question": "Ultracentrifuges can rotate at speeds exceeding:",
+    "answers": [
+      "10,000 RPM",
+      "50,000 RPM",
+      "150,000 RPM",
+      "1,000 RPM"
+    ],
+    "correctAnswer": "150,000 RPM"
+  },
+  {
+    "question": "CFU stands for:",
+    "answers": [
+      "Chemical formation unit",
+      "Colony-forming unit",
+      "Cellular functional unit",
+      "Concentration factor unit"
+    ],
+    "correctAnswer": "Colony-forming unit"
+  },
+  {
+    "question": "CFU is a measure of:",
+    "answers": [
+      "Dead cells",
+      "Viable microbial cells",
+      "Chemical concentration",
+      "Enzyme activity"
+    ],
+    "correctAnswer": "Viable microbial cells"
+  },
+  {
+    "question": "CFU/mL is used to express microbial count in:",
+    "answers": [
+      "Solids",
+      "Liquids",
+      "Gases",
+      "Powders"
+    ],
+    "correctAnswer": "Liquids"
+  },
+  {
+    "question": "CFU/g is commonly used for:",
+    "answers": [
+      "Liquid samples",
+      "Solid samples",
+      "Gas samples",
+      "Blood only"
+    ],
+    "correctAnswer": "Solid samples"
+  },
+  {
+    "question": "Which of the following units is commonly used in health and biology?",
+    "answers": [
+      "Newton",
+      "Joule",
+      "U/L",
+      "Tesla"
+    ],
+    "correctAnswer": "U/L"
+  },
+  {
+    "question": "μg/L is most suitable for measuring:",
+    "answers": [
+      "Large drug doses",
+      "Volume of liquids",
+      "Trace-level substances",
+      "Temperature"
+    ],
+    "correctAnswer": "Trace-level substances"
+  },
+  {
+    "question": "The main purpose of using standardized units in pharmacy is to ensure:",
+    "answers": [
+      "Attractive labeling",
+      "Faster manufacturing",
+      "Accuracy, safety, and uniformity",
+      "Lower cost only"
+    ],
+    "correctAnswer": "Accuracy, safety, and uniformity"
+  }
+]

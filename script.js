@@ -33,27 +33,65 @@ function stopTimer() {
     }
 }
 
-// Quiz titles mapping
-const quizTitles = {
-    'data/data.json': 'Colloids, Solutions & Mixtures',
-    'data/data2.json': 'Plant Cells & Leaves'
-};
+// Quiz list (add new quizzes here)
+const quizzes = [
+    {
+        id: 'atom',
+        emoji: '⚛️',
+        title: 'Atom',
+        description: 'Atoms, molecules, elements & compounds',
+        file: 'data/atom.json',
+    },
+    {
+        id: 'biophysics',
+        emoji: '🧬',
+        title: 'Biophysics',
+        description: 'Biophysics fundamentals',
+        file: 'data/bioPhysic.json',
+    },
+];
+
+function renderQuizOptions() {
+    const container = document.getElementById('quizOptions');
+    if (!container) return;
+
+    container.innerHTML = quizzes
+        .map(
+            (q, idx) => `
+            <div class="quiz-option-card" data-quiz="${q.file}">
+                <h3>${q.emoji} Quiz ${idx + 1}: ${q.title}</h3>
+                <p class="quiz-description">${q.description}</p>
+                <p class="quiz-count"><span class="quiz-count-number" data-file="${q.file}">0</span> questions</p>
+                <button class="btn btn-select-quiz" type="button">Select This Quiz</button>
+            </div>
+        `
+        )
+        .join('');
+
+    // Click handlers
+    container.querySelectorAll('.btn-select-quiz').forEach((btn) => {
+        btn.addEventListener('click', function () {
+            const quizCard = this.closest('.quiz-option-card');
+            const quizFile = quizCard?.getAttribute('data-quiz');
+            if (quizFile) selectQuiz(quizFile);
+        });
+    });
+}
 
 // Load quiz counts for selection screen
 async function loadQuizCounts() {
-    try {
-        // Load first quiz
-        const response1 = await fetch('data/data.json');
-        const data1 = await response1.json();
-        document.querySelector('[data-file="data/data.json"]').textContent = data1.length;
-        
-        // Load second quiz
-        const response2 = await fetch('data/data2.json');
-        const data2 = await response2.json();
-        document.querySelector('[data-file="data/data2.json"]').textContent = data2.length;
-    } catch (error) {
-        console.error('Error loading quiz counts:', error);
-    }
+    await Promise.all(
+        quizzes.map(async (q) => {
+            try {
+                const res = await fetch(q.file);
+                const data = await res.json();
+                const countEl = document.querySelector(`[data-file="${q.file}"]`);
+                if (countEl) countEl.textContent = data.length;
+            } catch (e) {
+                console.error('Error loading quiz count for', q.file, e);
+            }
+        })
+    );
 }
 
 // Load selected quiz data
@@ -63,8 +101,10 @@ async function loadQuizData(quizFile) {
         quizData = await response.json();
         document.getElementById('totalQuestionsInfo').textContent = quizData.length;
         document.getElementById('totalQuestions').textContent = quizData.length;
-        document.getElementById('selectedQuizTitle').textContent = 
-            `Ready for ${quizTitles[quizFile]} quiz, babe! 💕`;
+        const quizMeta = quizzes.find((q) => q.file === quizFile);
+        const quizName = quizMeta ? `${quizMeta.title}` : 'this';
+        document.getElementById('selectedQuizTitle').textContent =
+            `Ready for ${quizName} quiz, babe? I’m right here cheering for you! 💕`;
         return true;
     } catch (error) {
         console.error('Error loading quiz data:', error);
@@ -131,8 +171,13 @@ function displayQuestion() {
     
     questionText.textContent = question.question;
     answersContainer.innerHTML = '';
-    
-    question.answer.forEach((answer, index) => {
+
+    // Support both schemas:
+    // - old: { answer: [...] }
+    // - new: { answers: [...] }
+    const answerList = question.answers || question.answer || [];
+
+    answerList.forEach((answer, index) => {
         const answerDiv = document.createElement('div');
         answerDiv.className = 'answer-option';
         if (userAnswers[currentQuestionIndex] === answer) {
@@ -381,15 +426,6 @@ document.getElementById('prevBtn').addEventListener('click', prevQuestion);
 document.getElementById('submitBtn').addEventListener('click', submitQuiz);
 document.getElementById('restartBtn').addEventListener('click', restartQuiz);
 
-// Quiz selection event listeners
-document.querySelectorAll('.btn-select-quiz').forEach(btn => {
-    btn.addEventListener('click', function() {
-        const quizCard = this.closest('.quiz-option-card');
-        const quizFile = quizCard.getAttribute('data-quiz');
-        selectQuiz(quizFile);
-    });
-});
-
 // Keyboard navigation
 document.addEventListener('keydown', (e) => {
     if (!quizStarted) return;
@@ -401,6 +437,7 @@ document.addEventListener('keydown', (e) => {
     }
 });
 
-// Load quiz counts when page loads
+// Build selection UI + load counts when page loads
+renderQuizOptions();
 loadQuizCounts();
 
