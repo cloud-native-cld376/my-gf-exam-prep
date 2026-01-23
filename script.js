@@ -49,6 +49,13 @@ const quizzes = [
         description: 'Biophysics fundamentals',
         file: 'data/bioPhysic.json',
     },
+    {
+        id: 'ict',
+        emoji: '💻',
+        title: 'ICT',
+        description: 'Information and Communication Technology',
+        file: 'data/ict.json',
+    },
 ];
 
 function renderQuizOptions() {

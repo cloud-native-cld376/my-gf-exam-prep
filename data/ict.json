@@ -1,0 +1,602 @@
+[
+    {
+      "question": "What does ICT stand for?",
+      "answers": [
+        "Information and Communication Technology",
+        "Information and Communication Telecom",
+        "Information and Commune Technology",
+        "Information and Communication Television"
+      ],
+      "correctAnswer": "Information and Communication Technology"
+    },
+    {
+      "question": "What is the purpose of using ICT?",
+      "answers": [
+        "To communicate with customers",
+        "To communicate, and to create, disseminate, store, and manage information",
+        "To arrange the meeting between doctors and patients",
+        "To develop a program for education"
+      ],
+      "correctAnswer": "To communicate, and to create, disseminate, store, and manage information"
+    },
+    {
+      "question": "The application of ICT mostly based on?",
+      "answers": [
+        "Computer",
+        "Radio",
+        "Scanner",
+        "Fax"
+      ],
+      "correctAnswer": "Computer"
+    },
+    {
+      "question": "Desk top belong to computer in which generation?",
+      "answers": [
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "correctAnswer": "4"
+    },
+    {
+      "question": "How many generations has a computer been through?",
+      "answers": [
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "correctAnswer": "5"
+    },
+    {
+      "question": "Which of the following is the period of first generation?",
+      "answers": [
+        "1954-1959",
+        "1960-1965",
+        "1966-1972",
+        "1973-1980"
+      ],
+      "correctAnswer": "1954-1959"
+    },
+    {
+      "question": "Which of the following is the period of second generation?",
+      "answers": [
+        "1951-1959",
+        "1959-1963",
+        "1959-1968",
+        "1959-1975"
+      ],
+      "correctAnswer": "1959-1963"
+    },
+    {
+      "question": "Which of the following is the period of third generation?",
+      "answers": [
+        "1960-1963",
+        "1963-1975",
+        "1975-1980",
+        "1980-2025"
+      ],
+      "correctAnswer": "1963-1975"
+    },
+    {
+      "question": "Which of the following is the period of fourth generation?",
+      "answers": [
+        "1960-1963",
+        "1963-1975",
+        "1975-1980",
+        "1980-2025"
+      ],
+      "correctAnswer": "1975-1980"
+    },
+    {
+      "question": "Which of the following is the period of fifth generation?",
+      "answers": [
+        "1954-1959",
+        "1960-1965",
+        "1966-1972",
+        "1980-till now"
+      ],
+      "correctAnswer": "1980-till now"
+    },
+    {
+      "question": "In hospital pharmacy, what does EP stands for?",
+      "answers": [
+        "Electronic prescribing",
+        "Electronic personal",
+        "Electronic pressure",
+        "Electronic printing"
+      ],
+      "correctAnswer": "Electronic prescribing"
+    },
+    {
+      "question": "What is internet known as?",
+      "answers": [
+        "Interconnection of computer networks",
+        "Computer networks",
+        "Connection of computer",
+        "Interconnection of computer"
+      ],
+      "correctAnswer": "Interconnection of computer networks"
+    },
+    {
+      "question": "What does www stands for in internet?",
+      "answers": [
+        "WorldWideWeb",
+        "WideWorldWeb",
+        "WebwideWorld",
+        "WebWebWorld"
+      ],
+      "correctAnswer": "WorldWideWeb"
+    },
+    {
+      "question": "Which of the following is web browser?",
+      "answers": [
+        "Microsoft Word",
+        "Google Chrome",
+        "Microsoft Excel",
+        "Microsoft PowerPoint"
+      ],
+      "correctAnswer": "Google Chrome"
+    },
+    {
+      "question": "What is a PMR?",
+      "answers": [
+        "Patient Making Record",
+        "Patient Medication Record",
+        "Patient Mental Record",
+        "Patient Mental Resource"
+      ],
+      "correctAnswer": "Patient Medication Record"
+    },
+    {
+      "question": "What is an EHR?",
+      "answers": [
+        "Electronic Health Record",
+        "Electronic human Record",
+        "Electronic harmful Record",
+        "Electronic Health Resource"
+      ],
+      "correctAnswer": "Electronic Health Record"
+    },
+    {
+      "question": "What kind of information of a patient that EHR contains?",
+      "answers": [
+        "General information",
+        "Personal information",
+        "Technological information",
+        "Payment information"
+      ],
+      "correctAnswer": "Personal information"
+    },
+    {
+      "question": "What is the purpose of using information in EHR?",
+      "answers": [
+        "To make important treatment decisions.",
+        "To pay the paychecks.",
+        "To make important phone calls.",
+        "To make important visit."
+      ],
+      "correctAnswer": "To make important treatment decisions."
+    },
+    {
+      "question": "What is NOT included in EHR?",
+      "answers": [
+        "Diagnoses",
+        "Medical History",
+        "Academic expertise",
+        "Results of pathology and other tests"
+      ],
+      "correctAnswer": "Academic expertise"
+    },
+    {
+      "question": "Which of the following is NOT the application of ICT in pharmacy?",
+      "answers": [
+        "Hospital pharmacy",
+        "Retail pharmacy",
+        "Education and research",
+        "Transportation pharmacy"
+      ],
+      "correctAnswer": "Transportation pharmacy"
+    },
+    {
+      "question": "Which of the following is the application of ICT in hospital pharmacy?",
+      "answers": [
+        "Current medications",
+        "Current living situation",
+        "Current hobby",
+        "Current job status"
+      ],
+      "correctAnswer": "Current medications"
+    },
+    {
+      "question": "Which of the following is NOT the application of ICT in medicine management?",
+      "answers": [
+        "Stock in",
+        "Stock out",
+        "Stock in hand",
+        "Patient transportation"
+      ],
+      "correctAnswer": "Patient transportation"
+    },
+    {
+      "question": "What is e-teaching and learning?",
+      "answers": [
+        "Economic teaching and learning",
+        "Early teaching and learning",
+        "Electronic teaching and learning",
+        "Emotional teaching and learning"
+      ],
+      "correctAnswer": "Electronic teaching and learning"
+    },
+    {
+      "question": "In pharmacy, what does EHR store?",
+      "answers": [
+        "Patient Travel Record",
+        "Patient Medication Record",
+        "Patient Running Record",
+        "Patient Food and beverage Record"
+      ],
+      "correctAnswer": "Patient Medication Record"
+    },
+    {
+      "question": "What is the advantage of ICT?",
+      "answers": [
+        "Costing",
+        "Fast and convenient",
+        "Fake data",
+        "Need internet to access"
+      ],
+      "correctAnswer": "Fast and convenient"
+    },
+    {
+      "question": "Which of the following is NOT the disadvantage of ICT?",
+      "answers": [
+        "Costing",
+        "Cyber insecurity",
+        "Products management",
+        "Require trained staffs"
+      ],
+      "correctAnswer": "Products management"
+    },
+    {
+      "question": "Which of the following is the application of ICT for a lecturer?",
+      "answers": [
+        "Lesson preparation",
+        "Research and publication",
+        "Statistical analysis",
+        "Student meeting"
+      ],
+      "correctAnswer": "Lesson preparation"
+    },
+    {
+      "question": "Health professionals, including pharmacists, therefore are said to have a duty of confidentiality. What does it mean?",
+      "answers": [
+        "To make sure that the information of a patient is safeguarded.",
+        "To make sure that the patient is curable.",
+        "To make sure that the information of a patient can be show or inform to public",
+        "To make sure that a life of a patient is saved."
+      ],
+      "correctAnswer": "To make sure that the information of a patient is safeguarded."
+    },
+    {
+      "question": "Which of the following is NOT web browser?",
+      "answers": [
+        "Google chrome",
+        "Safari",
+        "Firefox",
+        "Google"
+      ],
+      "correctAnswer": "Google"
+    },
+    {
+      "question": "Which of the following is search engine?",
+      "answers": [
+        "Google",
+        "Google Scholar",
+        "Microsoft Bing",
+        "All of above"
+      ],
+      "correctAnswer": "All of above"
+    },
+    {
+      "question": "What kind of person information consisting in electronic patient record?",
+      "answers": [
+        "Medical conditions and treatments of a patient",
+        "Transportation method of a patient",
+        "Expense of a patient",
+        "Duration of stay of a patient"
+      ],
+      "correctAnswer": "Medical conditions and treatments of a patient"
+    },
+    {
+      "question": "Which of the following statement is true about confidentiality?",
+      "answers": [
+        "Pharmacists are said to have a duty to ensure that the patient information is safe.",
+        "Pharmacists don’t need to care about confidentiality.",
+        "Confidentiality is something that the patients should take care by themselves.",
+        "Confidentiality is considered to be not quite important."
+      ],
+      "correctAnswer": "Pharmacists are said to have a duty to ensure that the patient information is safe."
+    },
+    {
+      "question": "Which of the following statement is true about consent?",
+      "answers": [
+        "The purpose of collecting the patient information must be clearly stated.",
+        "A pharmacist does not need to inform to the patient about the collecting for information.",
+        "A patient must agree to the information collective process.",
+        "A mental illness patient can also sign in to information collective process."
+      ],
+      "correctAnswer": "The purpose of collecting the patient information must be clearly stated."
+    },
+    {
+      "question": "Which of the following statement is true about liability?",
+      "answers": [
+        "It is an appropriate documentation of patient care interventions.",
+        "It is a document that a pharmacist fill in based on what the doctor ordered.",
+        "It is a responsibility of a pharmacist for all the side effects.",
+        "It is a responsibility of a patient to check that the pharmacist got it right."
+      ],
+      "correctAnswer": "It is an appropriate documentation of patient care interventions."
+    },
+    {
+      "question": "Who can NOT share electronic health record of a patient?",
+      "answers": [
+        "Physician",
+        "Specialist",
+        "Pharmacist",
+        "Office worker"
+      ],
+      "correctAnswer": "Office worker"
+    },
+    {
+      "question": "How many types are there of electronic health record?",
+      "answers": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "correctAnswer": "2"
+    },
+    {
+      "question": "Which of the following component does NOT belong to electronic health system?",
+      "answers": [
+        "Decision support system",
+        "Date of withdraw from the hospital",
+        "Security protocol",
+        "Communication tool"
+      ],
+      "correctAnswer": "Date of withdraw from the hospital"
+    },
+    {
+      "question": "What does record security refer to?",
+      "answers": [
+        "It refers to the collection of patient information that is made into soft file and it is more secure than that of the paper records.",
+        "It refers to the collection of patient information that is made into soft file and it is stored outside the office for security purpose.",
+        "It refers to the collection of patient information that is made into soft file and it is stored in unsecured location.",
+        "It refers to the collection of patient information that is made into soft file and it is ready to expose to the outsiders."
+      ],
+      "correctAnswer": "It refers to the collection of patient information that is made into soft file and it is more secure than that of the paper records."
+    },
+    {
+      "question": "What does data inconsistency in pharmacy mean?",
+      "answers": [
+        "Weak security system",
+        "Risk of error",
+        "Low protection",
+        "Data storage limitation"
+      ],
+      "correctAnswer": "Risk of error"
+    },
+    {
+      "question": "What do security breaches refer to?",
+      "answers": [
+        "Encryption and low budget",
+        "Low budget and cybersecurity",
+        "Encryption and cybersecurity",
+        "Weak security system and cybersecurity"
+      ],
+      "correctAnswer": "Weak security system and cybersecurity"
+    },
+    {
+      "question": "Which of the following is most important in electronic health record?",
+      "answers": [
+        "Order entry system",
+        "Patient health information",
+        "Security protocol",
+        "Communication tool"
+      ],
+      "correctAnswer": "Patient health information"
+    },
+    {
+      "question": "What is the main purpose of communication tool in electronic health record?",
+      "answers": [
+        "To ensure adequate empathy to patient",
+        "To ensure a unified approach to patient treatment",
+        "To ensure the privacy protection to patient",
+        "To ensure enough feedback to patient"
+      ],
+      "correctAnswer": "To ensure a unified approach to patient treatment"
+    },
+    {
+      "question": "Which of the following is a storage device?",
+      "answers": [
+        "Keyboard",
+        "Hard Drive",
+        "Monitor",
+        "Mouse"
+      ],
+      "correctAnswer": "Hard Drive"
+    },
+    {
+      "question": "Which application is used for creating documents?",
+      "answers": [
+        "MS Word",
+        "MS Excel",
+        "MS PowerPoint",
+        "Adobe Photoshop"
+      ],
+      "correctAnswer": "MS Word"
+    },
+    {
+      "question": "What is the default file extension for a Word document?",
+      "answers": [
+        ".pdf",
+        ".docx",
+        ".xls",
+        ".txt"
+      ],
+      "correctAnswer": ".docx"
+    },
+    {
+      "question": "How can you insert a picture from your computer into a Word document?",
+      "answers": [
+        "Home → Picture",
+        "Insert → Picture",
+        "Page layout → Picture",
+        "View → Picture"
+      ],
+      "correctAnswer": "Insert → Picture"
+    },
+    {
+      "question": "What is the purpose of the ruler in MS word?",
+      "answers": [
+        "To measure the length of text",
+        "To manage page orientation",
+        "To adjust font size",
+        "To align text, graphics, and other elements"
+      ],
+      "correctAnswer": "To align text, graphics, and other elements"
+    },
+    {
+      "question": "What is MS PowerPoint?",
+      "answers": [
+        "A video editing software",
+        "A spreadsheet software",
+        "A word processing software",
+        "A presentation software used to create slideshows"
+      ],
+      "correctAnswer": "A presentation software used to create slideshows"
+    },
+    {
+      "question": "What is the default file extension for a PowerPoint presentation?",
+      "answers": [
+        ".pdf",
+        ".pptx",
+        ".pp",
+        ".slide"
+      ],
+      "correctAnswer": ".pptx"
+    },
+    {
+      "question": "What is a PowerPoint slide?",
+      "answers": [
+        "A graphic design tool for creating images",
+        "A page in a presentation that displays content like text, images, and videos",
+        "A text document used for writing notes",
+        "A spreadsheet for organizing data"
+      ],
+      "correctAnswer": "A page in a presentation that displays content like text, images, and videos"
+    },
+    {
+      "question": "Which of the following can be added to a PowerPoint slide?",
+      "answers": [
+        "Text",
+        "Images",
+        "Charts",
+        "All of the above"
+      ],
+      "correctAnswer": "All of the above"
+    },
+    {
+      "question": "What is the purpose of the “Notes” section in PowerPoint?",
+      "answers": [
+        "To insert images",
+        "To add speaker notes for reference during the presentation",
+        "To change slide backgrounds",
+        "To add hyperlinks"
+      ],
+      "correctAnswer": "To add speaker notes for reference during the presentation"
+    },
+    {
+      "question": "What is the default file extension for an Excel workbook?",
+      "answers": [
+        ".xlsx",
+        ".xls",
+        ".txt",
+        ".csv"
+      ],
+      "correctAnswer": ".xlsx"
+    },
+    {
+      "question": "How do you start a formula in Excel?",
+      "answers": [
+        "By typing @",
+        "By typing #",
+        "By typing +",
+        "By typing ="
+      ],
+      "correctAnswer": "By typing ="
+    },
+    {
+      "question": "What is the Excel formula for multiplication?",
+      "answers": [
+        "= A1+B1",
+        "=A1*B1",
+        "=A1-B1",
+        "=A1/B1"
+      ],
+      "correctAnswer": "=A1*B1"
+    },
+    {
+      "question": "What does the Ctrl + Z shortcut do in Excel?",
+      "answers": [
+        "Save the workbook",
+        "Undo the last action",
+        "Close the workbook",
+        "Redo the last action"
+      ],
+      "correctAnswer": "Undo the last action"
+    },
+    {
+      "question": "How do you save a document in Microsoft Word?",
+      "answers": [
+        "Ctrl + S",
+        "Ctrl + P",
+        "Ctrl + F",
+        "Ctrl + A"
+      ],
+      "correctAnswer": "Ctrl + S"
+    },
+    {
+      "question": "Which is the shortcut key to copy text in MS Word?",
+      "answers": [
+        "Ctrl + Z",
+        "Ctrl + X",
+        "Ctrl + V",
+        "Ctrl + C"
+      ],
+      "correctAnswer": "Ctrl + C"
+    },
+    {
+      "question": "What is the function of the ‘Ctrl + Z’ shortcut in MS Word?",
+      "answers": [
+        "To close the document",
+        "To redo an action",
+        "To undo an action",
+        "To save a document"
+      ],
+      "correctAnswer": "To undo an action"
+    },
+    {
+      "question": "What happens when you press Ctrl + A in MS Word?",
+      "answers": [
+        "Open the spell check",
+        "Insert text",
+        "Select all text in the document",
+        "Save the document"
+      ],
+      "correctAnswer": "Select all text in the document"
+    }
+  ]
