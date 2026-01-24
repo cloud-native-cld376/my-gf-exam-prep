@@ -56,6 +56,13 @@ const quizzes = [
         description: 'Information and Communication Technology',
         file: 'data/ict.json',
     },
+    {
+        id: 'biology',
+        emoji: '🌱',
+        title: 'Biology',
+        description: 'Plant biology, cells, leaves, roots & stems',
+        file: 'data/biology.json',
+    },
 ];
 
 function renderQuizOptions() {

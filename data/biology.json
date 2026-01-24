@@ -1,0 +1,1994 @@
+
+[
+  {
+    "question": "The scientific study of plants is called",
+    "answers": [
+      "Zoology",
+      "Ecology",
+      "Botany",
+      "Genetics"
+    ],
+    "correctAnswer": "Botany"
+  },
+  {
+    "question": "Plant biology is important mainly because it helps address",
+    "answers": [
+      "Space exploration",
+      "Computer science",
+      "Animal behavior",
+      "Global warming and climate change"
+    ],
+    "correctAnswer": "Global warming and climate change"
+  },
+  {
+    "question": "Which Greek word means \"plant or herb\"?",
+    "answers": [
+      "Boskein",
+      "Botane",
+      "Botanikos",
+      "Physis"
+    ],
+    "correctAnswer": "Botane"
+  },
+  {
+    "question": "Plant biology is a part of which reference module?",
+    "answers": [
+      "Medical Sciences",
+      "Life Sciences",
+      "Physical Sciences",
+      "Earth Sciences"
+    ],
+    "correctAnswer": "Life Sciences"
+  },
+  {
+    "question": "How many major categories are recognized in plant biology?",
+    "answers": [
+      "Two",
+      "Three",
+      "Four",
+      "Five"
+    ],
+    "correctAnswer": "Four"
+  },
+  {
+    "question": "Which of the following is NOT a major category of plant biology?",
+    "answers": [
+      "Plant ecology",
+      "Plant anatomy",
+      "Plant physiology",
+      "Plant molecular biology"
+    ],
+    "correctAnswer": "Plant molecular biology"
+  },
+  {
+    "question": "The study of internal structure of plants is called",
+    "answers": [
+      "Morphology",
+      "Anatomy",
+      "Physiology",
+      "Ecology"
+    ],
+    "correctAnswer": "Anatomy"
+  },
+  {
+    "question": "Plant morphology mainly studies",
+    "answers": [
+      "Chemical reactions in plants",
+      "Gene expression",
+      "Form and structure of plants",
+      "Environmental effects only"
+    ],
+    "correctAnswer": "Form and structure of plants"
+  },
+  {
+    "question": "Plant physiology focuses on",
+    "answers": [
+      "Plant functions",
+      "Plant classification",
+      "Plant evolution",
+      "Plant fossils"
+    ],
+    "correctAnswer": "Plant functions"
+  },
+  {
+    "question": "Who is considered the founder of plant physiology?",
+    "answers": [
+      "Gregor Mendel",
+      "Charles Darwin",
+      "Aristotle",
+      "J. B. van Helmont"
+    ],
+    "correctAnswer": "J. B. van Helmont"
+  },
+  {
+    "question": "J. B. van Helmont showed that plants",
+    "answers": [
+      "Eat soil",
+      "Are animals",
+      "Have different nutritional needs than animals",
+      "Do not need water"
+    ],
+    "correctAnswer": "Have different nutritional needs than animals"
+  },
+  {
+    "question": "Modern plant physiologists often study plants using",
+    "answers": [
+      "Fossils",
+      "Cloned genes",
+      "Microscopes only",
+      "Animal models"
+    ],
+    "correctAnswer": "Cloned genes"
+  },
+  {
+    "question": "Which factor is NOT studied in plant physiology?",
+    "answers": [
+      "Light",
+      "Temperature",
+      "Water",
+      "Animal digestion"
+    ],
+    "correctAnswer": "Animal digestion"
+  },
+  {
+    "question": "Plant ecology deals with",
+    "answers": [
+      "Plant genetics only",
+      "Plant structure",
+      "Interaction of plants with environment",
+      "Plant diseases only"
+    ],
+    "correctAnswer": "Interaction of plants with environment"
+  },
+  {
+    "question": "Plant ecology developed mainly during the",
+    "answers": [
+      "17th century",
+      "18th century",
+      "19th century",
+      "21st century"
+    ],
+    "correctAnswer": "19th century"
+  },
+  {
+    "question": "Plant morphology was developed mainly during the",
+    "answers": [
+      "19th century",
+      "17th century",
+      "16th century",
+      "21st century"
+    ],
+    "correctAnswer": "17th century"
+  },
+  {
+    "question": "Knowledge of plant anatomy helps scientists to",
+    "answers": [
+      "Predict earthquakes",
+      "Cure animal diseases",
+      "Build machines",
+      "Understand plant relationships"
+    ],
+    "correctAnswer": "Understand plant relationships"
+  },
+  {
+    "question": "The anatomy of which parts is commonly studied?",
+    "answers": [
+      "Roots only",
+      "Leaves and stems",
+      "Flowers only",
+      "Seeds only"
+    ],
+    "correctAnswer": "Leaves and stems"
+  },
+  {
+    "question": "Genetics is the science of",
+    "answers": [
+      "Growth",
+      "Nutrition",
+      "Heredity",
+      "Ecology"
+    ],
+    "correctAnswer": "Heredity"
+  },
+  {
+    "question": "Who founded genetics?",
+    "answers": [
+      "Gregor Mendel",
+      "J. B. van Helmont",
+      "Louis Pasteur",
+      "Linnaeus"
+    ],
+    "correctAnswer": "Gregor Mendel"
+  },
+  {
+    "question": "Mendel performed experiments on",
+    "answers": [
+      "Wheat plants",
+      "Corn plants",
+      "Pea plants",
+      "Rice plants"
+    ],
+    "correctAnswer": "Pea plants"
+  },
+  {
+    "question": "Gregor Mendel was an",
+    "answers": [
+      "English scientist",
+      "Austrian monk",
+      "French chemist",
+      "German botanist"
+    ],
+    "correctAnswer": "Austrian monk"
+  },
+  {
+    "question": "Plant breeding mainly helps to",
+    "answers": [
+      "Reduce biodiversity",
+      "Stop plant growth",
+      "Increase pollution",
+      "Improve yield and quality"
+    ],
+    "correctAnswer": "Improve yield and quality"
+  },
+  {
+    "question": "Genetic engineering is used to develop",
+    "answers": [
+      "Harmful plants",
+      "Artificial animals",
+      "Better agricultural plants",
+      "Fossil plants"
+    ],
+    "correctAnswer": "Better agricultural plants"
+  },
+  {
+    "question": "Genetic engineering can help control",
+    "answers": [
+      "Human, animal, and plant diseases",
+      "Climate only",
+      "Soil erosion only",
+      "Ocean pollution"
+    ],
+    "correctAnswer": "Human, animal, and plant diseases"
+  },
+  {
+    "question": "Plant molecular biology focuses on",
+    "answers": [
+      "Plant shape",
+      "Plant environment",
+      "Cellular and molecular processes",
+      "Plant fossils"
+    ],
+    "correctAnswer": "Cellular and molecular processes"
+  },
+  {
+    "question": "Elsevier's Reference Module includes plant biology as part of",
+    "answers": [
+      "Engineering",
+      "Medicine",
+      "Life sciences",
+      "Social sciences"
+    ],
+    "correctAnswer": "Life sciences"
+  },
+  {
+    "question": "The Greek word \"boskein\" means",
+    "answers": [
+      "Plant",
+      "Botanical",
+      "To feed",
+      "To grow"
+    ],
+    "correctAnswer": "To feed"
+  },
+  {
+    "question": "The interaction among plants themselves is studied in",
+    "answers": [
+      "Genetics",
+      "Ecology",
+      "Anatomy",
+      "Physiology"
+    ],
+    "correctAnswer": "Ecology"
+  },
+  {
+    "question": "Which field studies plant life cycles?",
+    "answers": [
+      "Ecology",
+      "Genetics",
+      "Morphology",
+      "Anatomy"
+    ],
+    "correctAnswer": "Morphology"
+  },
+  {
+    "question": "Plant sciences combine knowledge developed mainly during the",
+    "answers": [
+      "20th century",
+      "15th century",
+      "10th century",
+      "21st century"
+    ],
+    "correctAnswer": "20th century"
+  },
+  {
+    "question": "Climate change increases the importance of",
+    "answers": [
+      "Animal biology",
+      "Physics",
+      "Chemistry",
+      "Plant biology"
+    ],
+    "correctAnswer": "Plant biology"
+  },
+  {
+    "question": "Plant anatomy is useful for",
+    "answers": [
+      "Writing software",
+      "Predicting weather",
+      "Studying plant evolution",
+      "Animal breeding"
+    ],
+    "correctAnswer": "Studying plant evolution"
+  },
+  {
+    "question": "Which is a practical use of plant anatomy?",
+    "answers": [
+      "Sorting plant relationships",
+      "Animal feeding",
+      "Space research",
+      "Computer modeling"
+    ],
+    "correctAnswer": "Sorting plant relationships"
+  },
+  {
+    "question": "Modern genetics includes",
+    "answers": [
+      "Fossil study",
+      "Morphology",
+      "Genetic engineering",
+      "Ecology"
+    ],
+    "correctAnswer": "Genetic engineering"
+  },
+  {
+    "question": "Plant biology helps humans mainly by",
+    "answers": [
+      "Reducing food",
+      "Increasing pollution",
+      "Destroying ecosystems",
+      "Supporting sustainable future"
+    ],
+    "correctAnswer": "Supporting sustainable future"
+  },
+  {
+    "question": "Plant physiology explains",
+    "answers": [
+      "Plant names",
+      "Plant classification",
+      "How plants conduct materials",
+      "Plant fossils"
+    ],
+    "correctAnswer": "How plants conduct materials"
+  },
+  {
+    "question": "Which factor affects plant flowering?",
+    "answers": [
+      "Sound",
+      "Light",
+      "Magnetism",
+      "Electricity"
+    ],
+    "correctAnswer": "Light"
+  },
+  {
+    "question": "Plant molecular biology studies processes at the",
+    "answers": [
+      "Ecosystem level",
+      "Organ level",
+      "Tissue level",
+      "Cellular level"
+    ],
+    "correctAnswer": "Cellular level"
+  },
+  {
+    "question": "The overall aim of plant biology is to",
+    "answers": [
+      "Replace animals",
+      "Eliminate plants",
+      "Study humans",
+      "Understand plants and their roles"
+    ],
+    "correctAnswer": "Understand plants and their roles"
+  },
+  {
+    "question": "A plant cell is best described as",
+    "answers": [
+      "A tissue",
+      "An organ",
+      "A system",
+      "The basic unit of life"
+    ],
+    "correctAnswer": "The basic unit of life"
+  },
+  {
+    "question": "Plant cells are classified as eukaryotic because they",
+    "answers": [
+      "Have a cell wall",
+      "Contain a nucleus",
+      "Are microscopic",
+      "Perform photosynthesis"
+    ],
+    "correctAnswer": "Contain a nucleus"
+  },
+  {
+    "question": "Which structure provides rigidity and protection to plant cells?",
+    "answers": [
+      "Cell wall",
+      "Cell membrane",
+      "Cytoplasm",
+      "Vacuole"
+    ],
+    "correctAnswer": "Cell wall"
+  },
+  {
+    "question": "The main component of the plant cell wall is",
+    "answers": [
+      "Protein",
+      "Lipid",
+      "Cellulose",
+      "Starch"
+    ],
+    "correctAnswer": "Cellulose"
+  },
+  {
+    "question": "The cell membrane is mainly composed of",
+    "answers": [
+      "Cellulose fibers",
+      "Phospholipid bilayer",
+      "Carbohydrates only",
+      "Proteins only"
+    ],
+    "correctAnswer": "Phospholipid bilayer"
+  },
+  {
+    "question": "Which function is performed by the cell membrane?",
+    "answers": [
+      "Photosynthesis",
+      "Protein synthesis",
+      "Energy production",
+      "Regulating entry and exit of materials"
+    ],
+    "correctAnswer": "Regulating entry and exit of materials"
+  },
+  {
+    "question": "The jelly-like substance inside the cell is called",
+    "answers": [
+      "Nucleoplasm",
+      "Vacuole",
+      "Cytoplasm",
+      "Cell sap"
+    ],
+    "correctAnswer": "Cytoplasm"
+  },
+  {
+    "question": "Many biochemical reactions occur in the",
+    "answers": [
+      "Cytoplasm",
+      "Cell wall",
+      "Vacuole",
+      "Plasmodesmata"
+    ],
+    "correctAnswer": "Cytoplasm"
+  },
+  {
+    "question": "The control center of the plant cell is the",
+    "answers": [
+      "Vacuole",
+      "Chloroplast",
+      "Nucleus",
+      "Ribosome"
+    ],
+    "correctAnswer": "Nucleus"
+  },
+  {
+    "question": "DNA is stored inside the",
+    "answers": [
+      "Cytoplasm",
+      "Nucleus",
+      "Vacuole",
+      "Golgi apparatus"
+    ],
+    "correctAnswer": "Nucleus"
+  },
+  {
+    "question": "Ribosomes are produced in the",
+    "answers": [
+      "Cytoplasm",
+      "Chloroplast",
+      "ER",
+      "Nucleolus"
+    ],
+    "correctAnswer": "Nucleolus"
+  },
+  {
+    "question": "The central vacuole may occupy up to",
+    "answers": [
+      "25% of the cell",
+      "50% of the cell",
+      "70% of the cell",
+      "90% of the cell"
+    ],
+    "correctAnswer": "90% of the cell"
+  },
+  {
+    "question": "Which function is NOT performed by the vacuole?",
+    "answers": [
+      "Storage of water",
+      "Maintaining turgor pressure",
+      "Photosynthesis",
+      "Waste storage"
+    ],
+    "correctAnswer": "Photosynthesis"
+  },
+  {
+    "question": "Chlorophyll is found in",
+    "answers": [
+      "Mitochondria",
+      "Nucleus",
+      "Chloroplasts",
+      "Ribosomes"
+    ],
+    "correctAnswer": "Chloroplasts"
+  },
+  {
+    "question": "Photosynthesis occurs in the",
+    "answers": [
+      "Chloroplast",
+      "Vacuole",
+      "Mitochondria",
+      "Golgi apparatus"
+    ],
+    "correctAnswer": "Chloroplast"
+  },
+  {
+    "question": "Thylakoids are located inside",
+    "answers": [
+      "Mitochondria",
+      "Vacuoles",
+      "Nucleus",
+      "Chloroplasts"
+    ],
+    "correctAnswer": "Chloroplasts"
+  },
+  {
+    "question": "Mitochondria are known as the",
+    "answers": [
+      "Control centers",
+      "Powerhouse of the cell",
+      "Storage units",
+      "Protein factories"
+    ],
+    "correctAnswer": "Powerhouse of the cell"
+  },
+  {
+    "question": "ATP is produced mainly in the",
+    "answers": [
+      "Chloroplast",
+      "Nucleus",
+      "Mitochondria",
+      "Golgi apparatus"
+    ],
+    "correctAnswer": "Mitochondria"
+  },
+  {
+    "question": "Rough endoplasmic reticulum is involved in",
+    "answers": [
+      "Protein synthesis",
+      "Lipid synthesis",
+      "Photosynthesis",
+      "Cell division"
+    ],
+    "correctAnswer": "Protein synthesis"
+  },
+  {
+    "question": "Smooth endoplasmic reticulum is responsible for",
+    "answers": [
+      "Ribosome formation",
+      "Protein packaging",
+      "Photosynthesis",
+      "Lipid synthesis and detoxification"
+    ],
+    "correctAnswer": "Lipid synthesis and detoxification"
+  },
+  {
+    "question": "Plasmodesmata mainly function in",
+    "answers": [
+      "Energy production",
+      "Protein synthesis",
+      "Cell-to-cell communication",
+      "Waste removal"
+    ],
+    "correctAnswer": "Cell-to-cell communication"
+  },
+  {
+    "question": "A leaf is mainly responsible for",
+    "answers": [
+      "Reproduction",
+      "Support",
+      "Photosynthesis",
+      "Absorption"
+    ],
+    "correctAnswer": "Photosynthesis"
+  },
+  {
+    "question": "Which process is NOT a primary function of leaves?",
+    "answers": [
+      "Photosynthesis",
+      "Gas exchange",
+      "Transpiration",
+      "Germination"
+    ],
+    "correctAnswer": "Germination"
+  },
+  {
+    "question": "Leaves are important to plants because they",
+    "answers": [
+      "Protect roots",
+      "Produce food and oxygen",
+      "Absorb minerals",
+      "Anchor plants"
+    ],
+    "correctAnswer": "Produce food and oxygen"
+  },
+  {
+    "question": "The flat, green part of a leaf is called",
+    "answers": [
+      "Petiole",
+      "Midrib",
+      "Lamina",
+      "Vein"
+    ],
+    "correctAnswer": "Lamina"
+  },
+  {
+    "question": "The petiole mainly",
+    "answers": [
+      "Protects the leaf",
+      "Attaches the leaf to the stem",
+      "Produces food",
+      "Stores water"
+    ],
+    "correctAnswer": "Attaches the leaf to the stem"
+  },
+  {
+    "question": "Small leaf-like appendages at the base of the petiole are",
+    "answers": [
+      "Veins",
+      "Lamina",
+      "Midrib",
+      "Stipules"
+    ],
+    "correctAnswer": "Stipules"
+  },
+  {
+    "question": "The main vein of a leaf is known as",
+    "answers": [
+      "Lamina",
+      "Midrib",
+      "Petiole",
+      "Cuticle"
+    ],
+    "correctAnswer": "Midrib"
+  },
+  {
+    "question": "Veins in a leaf mainly",
+    "answers": [
+      "Store food",
+      "Protect the leaf",
+      "Transport water and food",
+      "Reduce transpiration"
+    ],
+    "correctAnswer": "Transport water and food"
+  },
+  {
+    "question": "Which tissue covers the outer surface of a leaf?",
+    "answers": [
+      "Mesophyll",
+      "Epidermis",
+      "Xylem",
+      "Phloem"
+    ],
+    "correctAnswer": "Epidermis"
+  },
+  {
+    "question": "The waxy layer that prevents water loss is the",
+    "answers": [
+      "Epidermis",
+      "Mesophyll",
+      "Cuticle",
+      "Cortex"
+    ],
+    "correctAnswer": "Cuticle"
+  },
+  {
+    "question": "Palisade mesophyll cells are",
+    "answers": [
+      "Loosely packed",
+      "Rich in chloroplasts",
+      "Without chlorophyll",
+      "Found in veins"
+    ],
+    "correctAnswer": "Rich in chloroplasts"
+  },
+  {
+    "question": "Spongy mesophyll is important for",
+    "answers": [
+      "Food transport",
+      "Protection",
+      "Gas exchange",
+      "Support"
+    ],
+    "correctAnswer": "Gas exchange"
+  },
+  {
+    "question": "Which tissue transports water in leaves?",
+    "answers": [
+      "Xylem",
+      "Phloem",
+      "Cortex",
+      "Epidermis"
+    ],
+    "correctAnswer": "Xylem"
+  },
+  {
+    "question": "Phloem mainly transports",
+    "answers": [
+      "Water",
+      "Minerals",
+      "Food",
+      "Oxygen"
+    ],
+    "correctAnswer": "Food"
+  },
+  {
+    "question": "Photosynthesis mainly occurs in the",
+    "answers": [
+      "Epidermis",
+      "Mesophyll",
+      "Veins",
+      "Cuticle"
+    ],
+    "correctAnswer": "Mesophyll"
+  },
+  {
+    "question": "Gas exchange in leaves occurs through",
+    "answers": [
+      "Veins",
+      "Cuticle",
+      "Stomata",
+      "Petiole"
+    ],
+    "correctAnswer": "Stomata"
+  },
+  {
+    "question": "Stomata are mostly found on the",
+    "answers": [
+      "Upper surface only",
+      "Lower epidermis",
+      "Midrib",
+      "Veins"
+    ],
+    "correctAnswer": "Lower epidermis"
+  },
+  {
+    "question": "Guard cells control the",
+    "answers": [
+      "Cuticle",
+      "Veins",
+      "Opening and closing of stomata",
+      "Lamina"
+    ],
+    "correctAnswer": "Opening and closing of stomata"
+  },
+  {
+    "question": "Blue light causes stomata to",
+    "answers": [
+      "Close",
+      "Shrink",
+      "Disappear",
+      "Open"
+    ],
+    "correctAnswer": "Open"
+  },
+  {
+    "question": "When guard cells become turgid, stomata",
+    "answers": [
+      "Close",
+      "Open",
+      "Break",
+      "Shrink"
+    ],
+    "correctAnswer": "Open"
+  },
+  {
+    "question": "Stomata usually close at night because",
+    "answers": [
+      "Water is abundant",
+      "Light is intense",
+      "Photosynthesis stops",
+      "Temperature rises"
+    ],
+    "correctAnswer": "Photosynthesis stops"
+  },
+  {
+    "question": "Which hormone causes stomatal closure during stress?",
+    "answers": [
+      "Auxin",
+      "Gibberellin",
+      "Cytokinin",
+      "Abscisic acid (ABA)"
+    ],
+    "correctAnswer": "Abscisic acid (ABA)"
+  },
+  {
+    "question": "Transpiration refers to the",
+    "answers": [
+      "Absorption of water",
+      "Loss of water vapor",
+      "Transport of food",
+      "Production of energy"
+    ],
+    "correctAnswer": "Loss of water vapor"
+  },
+  {
+    "question": "One benefit of transpiration is that it",
+    "answers": [
+      "Stops photosynthesis",
+      "Reduces growth",
+      "Helps cool the plant",
+      "Stores food"
+    ],
+    "correctAnswer": "Helps cool the plant"
+  },
+  {
+    "question": "Some leaves store food or water, such as in",
+    "answers": [
+      "Neem",
+      "Pine",
+      "Onion",
+      "Wheat"
+    ],
+    "correctAnswer": "Onion"
+  },
+  {
+    "question": "A leaf with a single blade is called",
+    "answers": [
+      "Compound leaf",
+      "Simple leaf",
+      "Pinnate leaf",
+      "Palmate leaf"
+    ],
+    "correctAnswer": "Simple leaf"
+  },
+  {
+    "question": "A compound leaf is characterized by",
+    "answers": [
+      "One blade",
+      "Many leaflets",
+      "Thick cuticle",
+      "No petiole"
+    ],
+    "correctAnswer": "Many leaflets"
+  },
+  {
+    "question": "Neem leaf is an example of",
+    "answers": [
+      "Palmate compound leaf",
+      "Pinnate compound leaf",
+      "Simple leaf",
+      "Needle leaf"
+    ],
+    "correctAnswer": "Pinnate compound leaf"
+  },
+  {
+    "question": "Silk cotton leaf is",
+    "answers": [
+      "Simple leaf",
+      "Pinnate",
+      "Palmate compound leaf",
+      "Needle-like"
+    ],
+    "correctAnswer": "Palmate compound leaf"
+  },
+  {
+    "question": "Which is a leaf shape?",
+    "answers": [
+      "Parallel",
+      "Ovate",
+      "Entire",
+      "Alternate"
+    ],
+    "correctAnswer": "Ovate"
+  },
+  {
+    "question": "Serrated refers to the",
+    "answers": [
+      "Shape of leaf",
+      "Tip of leaf",
+      "Margin of leaf",
+      "Veins of leaf"
+    ],
+    "correctAnswer": "Margin of leaf"
+  },
+  {
+    "question": "An entire margin means the leaf edge is",
+    "answers": [
+      "Cut",
+      "Lobed",
+      "Smooth",
+      "Spiny"
+    ],
+    "correctAnswer": "Smooth"
+  },
+  {
+    "question": "Alternate, opposite, and whorled describe",
+    "answers": [
+      "Leaf shapes",
+      "Leaf arrangements",
+      "Leaf margins",
+      "Leaf sizes"
+    ],
+    "correctAnswer": "Leaf arrangements"
+  },
+  {
+    "question": "Xerophytes are plants adapted to",
+    "answers": [
+      "Water habitats",
+      "Cold regions",
+      "Dry conditions",
+      "Forest shade"
+    ],
+    "correctAnswer": "Dry conditions"
+  },
+  {
+    "question": "In desert plants, leaves are often modified into",
+    "answers": [
+      "Broad blades",
+      "Needles",
+      "Scales",
+      "Spines"
+    ],
+    "correctAnswer": "Spines"
+  },
+  {
+    "question": "A thick cuticle helps desert plants to",
+    "answers": [
+      "Absorb more water",
+      "Reduce water loss",
+      "Increase photosynthesis",
+      "Store food"
+    ],
+    "correctAnswer": "Reduce water loss"
+  },
+  {
+    "question": "Hydrophytes are plants that live in",
+    "answers": [
+      "Aquatic environments",
+      "Deserts",
+      "Cold regions",
+      "Mountains"
+    ],
+    "correctAnswer": "Aquatic environments"
+  },
+  {
+    "question": "Floating leaves are common in",
+    "answers": [
+      "Xerophytes",
+      "Mesophytes",
+      "Hydrophytes",
+      "Epiphytes"
+    ],
+    "correctAnswer": "Hydrophytes"
+  },
+  {
+    "question": "Plants in cold climates often have",
+    "answers": [
+      "Broad leaves",
+      "Large lamina",
+      "Needle-like leaves",
+      "Compound leaves"
+    ],
+    "correctAnswer": "Needle-like leaves"
+  },
+  {
+    "question": "Needle-like leaves help reduce",
+    "answers": [
+      "Light absorption",
+      "Food production",
+      "Water loss",
+      "Oxygen release"
+    ],
+    "correctAnswer": "Water loss"
+  },
+  {
+    "question": "Pine trees are adapted to",
+    "answers": [
+      "Aquatic habitats",
+      "Tropical forests",
+      "Cold climates",
+      "Deserts"
+    ],
+    "correctAnswer": "Cold climates"
+  },
+  {
+    "question": "Tropical plants usually have",
+    "answers": [
+      "Spines",
+      "Broad leaves",
+      "No leaves",
+      "Needle leaves"
+    ],
+    "correctAnswer": "Broad leaves"
+  },
+  {
+    "question": "Broad leaves are useful in tropical plants to",
+    "answers": [
+      "Reduce sunlight",
+      "Reduce gas exchange",
+      "Capture more sunlight",
+      "Stop transpiration"
+    ],
+    "correctAnswer": "Capture more sunlight"
+  },
+  {
+    "question": "Which function of leaves helps regulate water balance?",
+    "answers": [
+      "Photosynthesis",
+      "Respiration",
+      "Transpiration",
+      "Storage"
+    ],
+    "correctAnswer": "Transpiration"
+  },
+  {
+    "question": "Leaves release oxygen mainly during",
+    "answers": [
+      "Respiration",
+      "Transpiration",
+      "Photosynthesis",
+      "Storage"
+    ],
+    "correctAnswer": "Photosynthesis"
+  },
+  {
+    "question": "Which structure directly connects leaf tissues to the stem?",
+    "answers": [
+      "Lamina",
+      "Midrib",
+      "Veins",
+      "Petiole"
+    ],
+    "correctAnswer": "Petiole"
+  },
+  {
+    "question": "The main importance of leaves is that they",
+    "answers": [
+      "Support the plant",
+      "Absorb minerals",
+      "Produce food for the plant",
+      "Protect roots"
+    ],
+    "correctAnswer": "Produce food for the plant"
+  },
+  {
+    "question": "Overall, leaves are vital because they help plants",
+    "answers": [
+      "Move from place to place",
+      "Capture animals",
+      "Reproduce directly",
+      "Survive and adapt to the environment"
+    ],
+    "correctAnswer": "Survive and adapt to the environment"
+  },
+  {
+    "question": "The root system of a plant is usually found",
+    "answers": [
+      "Above the ground",
+      "Below the ground",
+      "On the stem",
+      "On the leaves"
+    ],
+    "correctAnswer": "Below the ground"
+  },
+  {
+    "question": "Which is NOT a main function of roots?",
+    "answers": [
+      "Anchorage",
+      "Absorption",
+      "Photosynthesis",
+      "Storage"
+    ],
+    "correctAnswer": "Photosynthesis"
+  },
+  {
+    "question": "Roots help the plant by anchoring it",
+    "answers": [
+      "In air",
+      "In the soil",
+      "On leaves",
+      "In water only"
+    ],
+    "correctAnswer": "In the soil"
+  },
+  {
+    "question": "Which part of the root protects the growing tip?",
+    "answers": [
+      "Root cap",
+      "Cortex",
+      "Endodermis",
+      "Pericycle"
+    ],
+    "correctAnswer": "Root cap"
+  },
+  {
+    "question": "Cell division mainly occurs in the",
+    "answers": [
+      "Maturation zone",
+      "Elongation zone",
+      "Meristematic zone",
+      "Cortex"
+    ],
+    "correctAnswer": "Meristematic zone"
+  },
+  {
+    "question": "Increase in length of the root occurs in the",
+    "answers": [
+      "Root cap",
+      "Elongation zone",
+      "Meristematic zone",
+      "Pericycle"
+    ],
+    "correctAnswer": "Elongation zone"
+  },
+  {
+    "question": "Root hairs are found in the",
+    "answers": [
+      "Root cap",
+      "Elongation zone",
+      "Maturation zone",
+      "Meristematic zone"
+    ],
+    "correctAnswer": "Maturation zone"
+  },
+  {
+    "question": "Which type of root system has a main thick root?",
+    "answers": [
+      "Taproot system",
+      "Fibrous root system",
+      "Adventitious root system",
+      "Prop root system"
+    ],
+    "correctAnswer": "Taproot system"
+  },
+  {
+    "question": "Carrot and beetroot show",
+    "answers": [
+      "Fibrous roots",
+      "Taproot system",
+      "Adventitious roots",
+      "Climbing roots"
+    ],
+    "correctAnswer": "Taproot system"
+  },
+  {
+    "question": "Fibrous root system is common in",
+    "answers": [
+      "Carrot",
+      "Beetroot",
+      "Wheat",
+      "Banyan"
+    ],
+    "correctAnswer": "Wheat"
+  },
+  {
+    "question": "Which plant has a fibrous root system?",
+    "answers": [
+      "Mango",
+      "Rice",
+      "Carrot",
+      "Pea"
+    ],
+    "correctAnswer": "Rice"
+  },
+  {
+    "question": "Adventitious roots arise from",
+    "answers": [
+      "Roots only",
+      "Non-root parts",
+      "Leaves only",
+      "Root cap"
+    ],
+    "correctAnswer": "Non-root parts"
+  },
+  {
+    "question": "Sugarcane shows",
+    "answers": [
+      "Taproot system",
+      "Fibrous roots",
+      "Adventitious roots",
+      "Breathing roots"
+    ],
+    "correctAnswer": "Adventitious roots"
+  },
+  {
+    "question": "Roots modify mainly for",
+    "answers": [
+      "Photosynthesis",
+      "Reproduction only",
+      "Adaptation",
+      "Transpiration"
+    ],
+    "correctAnswer": "Adaptation"
+  },
+  {
+    "question": "Storage roots are modified to",
+    "answers": [
+      "Absorb oxygen",
+      "Provide support",
+      "Store food",
+      "Climb"
+    ],
+    "correctAnswer": "Store food"
+  },
+  {
+    "question": "Sweet potato is an example of",
+    "answers": [
+      "Fibrous root",
+      "Storage root",
+      "Breathing root",
+      "Climbing root"
+    ],
+    "correctAnswer": "Storage root"
+  },
+  {
+    "question": "Prop roots mainly provide",
+    "answers": [
+      "Food storage",
+      "Water absorption",
+      "Structural support",
+      "Gas exchange"
+    ],
+    "correctAnswer": "Structural support"
+  },
+  {
+    "question": "Banyan tree shows",
+    "answers": [
+      "Fibrous roots",
+      "Taproots",
+      "Prop roots",
+      "Breathing roots"
+    ],
+    "correctAnswer": "Prop roots"
+  },
+  {
+    "question": "Roots that help plants breathe are found in",
+    "answers": [
+      "Desert plants",
+      "Mangroves",
+      "Wheat",
+      "Carrot"
+    ],
+    "correctAnswer": "Mangroves"
+  },
+  {
+    "question": "Breathing roots are also called",
+    "answers": [
+      "Climbing roots",
+      "Pneumatophores",
+      "Prop roots",
+      "Storage roots"
+    ],
+    "correctAnswer": "Pneumatophores"
+  },
+  {
+    "question": "Which root helps plants climb?",
+    "answers": [
+      "Storage root",
+      "Fibrous root",
+      "Taproot",
+      "Climbing root"
+    ],
+    "correctAnswer": "Climbing root"
+  },
+  {
+    "question": "The outermost layer of the root is",
+    "answers": [
+      "Epidermis",
+      "Cortex",
+      "Endodermis",
+      "Pericycle"
+    ],
+    "correctAnswer": "Epidermis"
+  },
+  {
+    "question": "Which tissue controls the movement of water into the vascular tissue?",
+    "answers": [
+      "Cortex",
+      "Endodermis",
+      "Epidermis",
+      "Root cap"
+    ],
+    "correctAnswer": "Endodermis"
+  },
+  {
+    "question": "Xylem and phloem are part of the",
+    "answers": [
+      "Cortex",
+      "Epidermis",
+      "Vascular tissue",
+      "Root cap"
+    ],
+    "correctAnswer": "Vascular tissue"
+  },
+  {
+    "question": "Root hairs mainly help in",
+    "answers": [
+      "Support",
+      "Storage",
+      "Absorption of water and minerals",
+      "Photosynthesis"
+    ],
+    "correctAnswer": "Absorption of water and minerals"
+  },
+  {
+    "question": "Root hairs increase absorption by increasing",
+    "answers": [
+      "Root length",
+      "Surface area",
+      "Root thickness",
+      "Cell division"
+    ],
+    "correctAnswer": "Surface area"
+  },
+  {
+    "question": "Roots can function without soil in",
+    "answers": [
+      "Desert farming",
+      "Organic farming",
+      "Hydroponics",
+      "Crop rotation"
+    ],
+    "correctAnswer": "Hydroponics"
+  },
+  {
+    "question": "In hydroponics, roots absorb nutrients from",
+    "answers": [
+      "Soil",
+      "Air",
+      "Water",
+      "Leaves"
+    ],
+    "correctAnswer": "Water"
+  },
+  {
+    "question": "Roots help prevent soil erosion by",
+    "answers": [
+      "Absorbing minerals",
+      "Binding soil particles",
+      "Producing food",
+      "Releasing oxygen"
+    ],
+    "correctAnswer": "Binding soil particles"
+  },
+  {
+    "question": "Overall, the root system is essential for",
+    "answers": [
+      "Photosynthesis only",
+      "Reproduction only",
+      "Gas exchange only",
+      "Anchorage, absorption, and storage"
+    ],
+    "correctAnswer": "Anchorage, absorption, and storage"
+  },
+  {
+    "question": "The stem is mainly responsible for",
+    "answers": [
+      "Absorbing water",
+      "Supporting leaves and flowers",
+      "Photosynthesis only",
+      "Seed formation"
+    ],
+    "correctAnswer": "Supporting leaves and flowers"
+  },
+  {
+    "question": "One major function of the stem is to",
+    "answers": [
+      "Absorb minerals",
+      "Anchor the plant",
+      "Transport water and food",
+      "Produce seeds"
+    ],
+    "correctAnswer": "Transport water and food"
+  },
+  {
+    "question": "The point on the stem where leaves arise is called",
+    "answers": [
+      "Internode",
+      "Node",
+      "Bud",
+      "Cortex"
+    ],
+    "correctAnswer": "Node"
+  },
+  {
+    "question": "The region between two nodes is known as",
+    "answers": [
+      "Node",
+      "Bud",
+      "Internode",
+      "Pith"
+    ],
+    "correctAnswer": "Internode"
+  },
+  {
+    "question": "The bud responsible for upward growth of the stem is",
+    "answers": [
+      "Axillary bud",
+      "Adventitious bud",
+      "Apical bud",
+      "Lateral bud"
+    ],
+    "correctAnswer": "Apical bud"
+  },
+  {
+    "question": "Axillary buds usually develop into",
+    "answers": [
+      "Roots",
+      "Leaves only",
+      "Branches",
+      "Flowers only"
+    ],
+    "correctAnswer": "Branches"
+  },
+  {
+    "question": "The outer protective layer of a young stem is the",
+    "answers": [
+      "Cortex",
+      "Epidermis",
+      "Pith",
+      "Cambium"
+    ],
+    "correctAnswer": "Epidermis"
+  },
+  {
+    "question": "In woody stems, the epidermis is replaced by",
+    "answers": [
+      "Cortex",
+      "Phloem",
+      "Periderm",
+      "Xylem"
+    ],
+    "correctAnswer": "Periderm"
+  },
+  {
+    "question": "Which tissue transports water and minerals in the stem?",
+    "answers": [
+      "Xylem",
+      "Phloem",
+      "Cortex",
+      "Pith"
+    ],
+    "correctAnswer": "Xylem"
+  },
+  {
+    "question": "Food is transported in the stem through",
+    "answers": [
+      "Xylem",
+      "Phloem",
+      "Cambium",
+      "Medullary rays"
+    ],
+    "correctAnswer": "Phloem"
+  },
+  {
+    "question": "Vascular cambium is responsible for",
+    "answers": [
+      "Primary growth",
+      "Food storage",
+      "Secondary growth",
+      "Photosynthesis"
+    ],
+    "correctAnswer": "Secondary growth"
+  },
+  {
+    "question": "Growth rings in stems indicate",
+    "answers": [
+      "Plant height",
+      "Age and climate conditions",
+      "Type of root",
+      "Leaf arrangement"
+    ],
+    "correctAnswer": "Age and climate conditions"
+  },
+  {
+    "question": "The central region of the stem that stores food is",
+    "answers": [
+      "Cortex",
+      "Cambium",
+      "Pith",
+      "Epidermis"
+    ],
+    "correctAnswer": "Pith"
+  },
+  {
+    "question": "Medullary rays help in",
+    "answers": [
+      "Vertical transport",
+      "Lateral transport",
+      "Photosynthesis",
+      "Protection"
+    ],
+    "correctAnswer": "Lateral transport"
+  },
+  {
+    "question": "Primary growth of the stem occurs at the",
+    "answers": [
+      "Cambium",
+      "Apical meristem",
+      "Cortex",
+      "Pith"
+    ],
+    "correctAnswer": "Apical meristem"
+  },
+  {
+    "question": "Secondary growth is common in",
+    "answers": [
+      "All plants",
+      "Monocots only",
+      "Dicots and gymnosperms",
+      "Herbs only"
+    ],
+    "correctAnswer": "Dicots and gymnosperms"
+  },
+  {
+    "question": "In monocot stems, vascular bundles are",
+    "answers": [
+      "Arranged in a ring",
+      "Scattered",
+      "Absent",
+      "Only at the center"
+    ],
+    "correctAnswer": "Scattered"
+  },
+  {
+    "question": "Herbaceous stems are usually",
+    "answers": [
+      "Hard and woody",
+      "Soft and green",
+      "Underground",
+      "Lignified"
+    ],
+    "correctAnswer": "Soft and green"
+  },
+  {
+    "question": "Potato is an example of a",
+    "answers": [
+      "Rhizome",
+      "Bulb",
+      "Tuber",
+      "Stolon"
+    ],
+    "correctAnswer": "Tuber"
+  },
+  {
+    "question": "Rhizomes are best described as",
+    "answers": [
+      "Aerial stems",
+      "Vertical stems",
+      "Horizontal underground stems",
+      "Climbing stems"
+    ],
+    "correctAnswer": "Horizontal underground stems"
+  },
+  {
+    "question": "Cells can be classified mainly into",
+    "answers": [
+      "Plant and animal cells",
+      "Simple and complex cells",
+      "Prokaryotic and eukaryotic cells",
+      "Living and non-living cells"
+    ],
+    "correctAnswer": "Prokaryotic and eukaryotic cells"
+  },
+  {
+    "question": "The most basic unit of life is the",
+    "answers": [
+      "Tissue",
+      "Organ",
+      "Cell",
+      "System"
+    ],
+    "correctAnswer": "Cell"
+  },
+  {
+    "question": "Prokaryotic cells are generally",
+    "answers": [
+      "Multicellular",
+      "Unicellular",
+      "Colonial only",
+      "Multinucleate"
+    ],
+    "correctAnswer": "Unicellular"
+  },
+  {
+    "question": "Eukaryotic cells are characterized by the presence of",
+    "answers": [
+      "Cell wall",
+      "Ribosomes",
+      "True nucleus",
+      "Circular DNA"
+    ],
+    "correctAnswer": "True nucleus"
+  },
+  {
+    "question": "Which group lacks a membrane-bound nucleus?",
+    "answers": [
+      "Plants",
+      "Animals",
+      "Prokaryotes",
+      "Fungi"
+    ],
+    "correctAnswer": "Prokaryotes"
+  },
+  {
+    "question": "Bacteria belong to the domain",
+    "answers": [
+      "Eukarya",
+      "Protista",
+      "Bacteria",
+      "Plantae"
+    ],
+    "correctAnswer": "Bacteria"
+  },
+  {
+    "question": "Archaea are classified as",
+    "answers": [
+      "Prokaryotes",
+      "Eukaryotes",
+      "Protists",
+      "Fungi"
+    ],
+    "correctAnswer": "Prokaryotes"
+  },
+  {
+    "question": "Which organisms are eukaryotic?",
+    "answers": [
+      "Bacteria",
+      "Archaea",
+      "Plants",
+      "Cyanobacteria"
+    ],
+    "correctAnswer": "Plants"
+  },
+  {
+    "question": "All cells contain",
+    "answers": [
+      "Nucleus",
+      "Mitochondria",
+      "DNA",
+      "Chloroplasts"
+    ],
+    "correctAnswer": "DNA"
+  },
+  {
+    "question": "Which structure is present in both prokaryotic and eukaryotic cells?",
+    "answers": [
+      "Golgi apparatus",
+      "Ribosomes",
+      "Mitochondria",
+      "Nucleus"
+    ],
+    "correctAnswer": "Ribosomes"
+  },
+  {
+    "question": "The plasma membrane mainly functions to",
+    "answers": [
+      "Store DNA",
+      "Separate cell from environment",
+      "Produce energy",
+      "Synthesize proteins"
+    ],
+    "correctAnswer": "Separate cell from environment"
+  },
+  {
+    "question": "Cytoplasm is best described as",
+    "answers": [
+      "A solid structure",
+      "A membrane",
+      "Jelly-like substance",
+      "Genetic material"
+    ],
+    "correctAnswer": "Jelly-like substance"
+  },
+  {
+    "question": "Ribosomes are responsible for",
+    "answers": [
+      "Lipid synthesis",
+      "Energy production",
+      "Protein synthesis",
+      "DNA replication"
+    ],
+    "correctAnswer": "Protein synthesis"
+  },
+  {
+    "question": "Prokaryotic DNA is usually",
+    "answers": [
+      "Linear",
+      "Circular",
+      "Double nucleus",
+      "Enclosed in nucleus"
+    ],
+    "correctAnswer": "Circular"
+  },
+  {
+    "question": "The DNA-containing region in prokaryotes is called",
+    "answers": [
+      "Nucleus",
+      "Chromatin",
+      "Nucleoid",
+      "Plasmid"
+    ],
+    "correctAnswer": "Nucleoid"
+  },
+  {
+    "question": "Prokaryotic cells usually have",
+    "answers": [
+      "Many chromosomes",
+      "A single chromosome",
+      "No DNA",
+      "Linear chromosomes"
+    ],
+    "correctAnswer": "A single chromosome"
+  },
+  {
+    "question": "Which structure provides extra protection in bacteria?",
+    "answers": [
+      "Nucleus",
+      "Ribosome",
+      "Cell wall",
+      "Golgi body"
+    ],
+    "correctAnswer": "Cell wall"
+  },
+  {
+    "question": "Bacterial cell walls are made mainly of",
+    "answers": [
+      "Cellulose",
+      "Chitin",
+      "Peptidoglycan",
+      "Protein"
+    ],
+    "correctAnswer": "Peptidoglycan"
+  },
+  {
+    "question": "The capsule in bacteria helps in",
+    "answers": [
+      "Photosynthesis",
+      "Protection and adhesion",
+      "Protein synthesis",
+      "Respiration"
+    ],
+    "correctAnswer": "Protection and adhesion"
+  },
+  {
+    "question": "Flagella in prokaryotes are used for",
+    "answers": [
+      "Protection",
+      "Nutrition",
+      "Movement",
+      "Reproduction"
+    ],
+    "correctAnswer": "Movement"
+  },
+  {
+    "question": "Pili are mainly involved in",
+    "answers": [
+      "Movement",
+      "DNA transfer",
+      "Energy production",
+      "Photosynthesis"
+    ],
+    "correctAnswer": "DNA transfer"
+  },
+  {
+    "question": "Fimbriae help bacteria to",
+    "answers": [
+      "Respire",
+      "Divide",
+      "Attach to surfaces",
+      "Store food"
+    ],
+    "correctAnswer": "Attach to surfaces"
+  },
+  {
+    "question": "Eukaryotic cells contain organelles such as",
+    "answers": [
+      "Nucleoid",
+      "Capsule",
+      "Mitochondria",
+      "Plasmid"
+    ],
+    "correctAnswer": "Mitochondria"
+  },
+  {
+    "question": "Which organelle is known as the powerhouse of the cell?",
+    "answers": [
+      "Golgi apparatus",
+      "Ribosome",
+      "Mitochondria",
+      "Lysosome"
+    ],
+    "correctAnswer": "Mitochondria"
+  },
+  {
+    "question": "Endoplasmic reticulum is involved in",
+    "answers": [
+      "DNA storage",
+      "Protein and lipid synthesis",
+      "Cell division",
+      "Protection"
+    ],
+    "correctAnswer": "Protein and lipid synthesis"
+  },
+  {
+    "question": "Golgi apparatus mainly functions in",
+    "answers": [
+      "Energy production",
+      "DNA replication",
+      "Packaging and transport",
+      "Respiration"
+    ],
+    "correctAnswer": "Packaging and transport"
+  },
+  {
+    "question": "Lysosomes are involved in",
+    "answers": [
+      "Photosynthesis",
+      "Intracellular digestion",
+      "Protein synthesis",
+      "Transport"
+    ],
+    "correctAnswer": "Intracellular digestion"
+  },
+  {
+    "question": "Eukaryotic cells are generally",
+    "answers": [
+      "Smaller and simpler",
+      "Larger and more complex",
+      "Always unicellular",
+      "Without organelles"
+    ],
+    "correctAnswer": "Larger and more complex"
+  },
+  {
+    "question": "The cytoskeleton is",
+    "answers": [
+      "Found only in prokaryotes",
+      "Absent in eukaryotes",
+      "Well developed in eukaryotes",
+      "Made of DNA"
+    ],
+    "correctAnswer": "Well developed in eukaryotes"
+  },
+  {
+    "question": "Cell division in prokaryotes occurs by",
+    "answers": [
+      "Mitosis",
+      "Meiosis",
+      "Binary fission",
+      "Budding only"
+    ],
+    "correctAnswer": "Binary fission"
+  },
+  {
+    "question": "Cell division in eukaryotic cells occurs by",
+    "answers": [
+      "Binary fission only",
+      "Mitosis and meiosis",
+      "Fragmentation",
+      "Budding only"
+    ],
+    "correctAnswer": "Mitosis and meiosis"
+  },
+  {
+    "question": "Eukaryotic cells usually measure",
+    "answers": [
+      "1-5 μm",
+      "1-10 μm",
+      "5-100 µm",
+      "Less than 1 μm"
+    ],
+    "correctAnswer": "5-100 µm"
+  },
+  {
+    "question": "Plasmids are",
+    "answers": [
+      "Ribosomes",
+      "Organelles",
+      "Extra-chromosomal DNA",
+      "Proteins"
+    ],
+    "correctAnswer": "Extra-chromosomal DNA"
+  },
+  {
+    "question": "Plasmids are commonly found in",
+    "answers": [
+      "Eukaryotes",
+      "Prokaryotes",
+      "Plant cells only",
+      "Animal cells only"
+    ],
+    "correctAnswer": "Prokaryotes"
+  },
+  {
+    "question": "Chloroplasts are found in",
+    "answers": [
+      "Prokaryotes",
+      "Animal cells",
+      "Plant cells",
+      "Bacterial cells"
+    ],
+    "correctAnswer": "Plant cells"
+  },
+  {
+    "question": "Which domain includes eukaryotic organisms?",
+    "answers": [
+      "Archaea",
+      "Bacteria",
+      "Eukarya",
+      "Monera"
+    ],
+    "correctAnswer": "Eukarya"
+  },
+  {
+    "question": "Prokaryotic cells are considered more",
+    "answers": [
+      "Advanced",
+      "Ancient",
+      "Specialized",
+      "Multicellular"
+    ],
+    "correctAnswer": "Ancient"
+  },
+  {
+    "question": "Both prokaryotic and eukaryotic cells have",
+    "answers": [
+      "Nucleus",
+      "Mitochondria",
+      "Cell membrane",
+      "Golgi bodies"
+    ],
+    "correctAnswer": "Cell membrane"
+  },
+  {
+    "question": "The main difference between prokaryotic and eukaryotic cells is the",
+    "answers": [
+      "Presence of DNA",
+      "Cell membrane",
+      "Presence of membrane-bound organelles",
+      "Presence of ribosomes"
+    ],
+    "correctAnswer": "Presence of membrane-bound organelles"
+  },
+  {
+    "question": "A farmer noticed that some of his crop plants had pale yellow leaves and showed poor growth... the chlorophyll content was low... As a result, food production was affected, leading to",
+    "answers": [
+      "Increased yield",
+      "Stunted growth and poor health",
+      "Faster germination",
+      "More flowers"
+    ],
+    "correctAnswer": "Stunted growth and poor health"
+  }
+]
+
