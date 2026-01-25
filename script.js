@@ -63,6 +63,13 @@ const quizzes = [
         description: 'Plant biology, cells, leaves, roots & stems',
         file: 'data/biology.json',
     },
+    {
+        id: 'research_methodology',
+        emoji: '📊',
+        title: 'Research Methodology',
+        description: 'Research methods, systematic inquiry & analysis',
+        file: 'data/research_methology.json',
+    },
 ];
 
 function renderQuizOptions() {

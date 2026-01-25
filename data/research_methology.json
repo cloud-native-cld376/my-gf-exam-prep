@@ -1,0 +1,1002 @@
+[
+    {
+      "question": "Research is best defined as:",
+      "answers": [
+        "A random collection of information",
+        "A systematic, logical, and objective process",
+        "Personal opinion-based inquiry",
+        "Trial-and-error experimentation"
+      ],
+      "correctAnswer": "A systematic, logical, and objective process"
+    },
+    {
+      "question": "Which characteristic is NOT part of research?",
+      "answers": [
+        "Systematic",
+        "Empirical",
+        "Reproducible",
+        "Biased"
+      ],
+      "correctAnswer": "Biased"
+    },
+    {
+      "question": "Studying drug absorption at different pH levels is an example of:",
+      "answers": [
+        "Pharmacy practice",
+        "Pharmacognosy",
+        "Pharmaceutics",
+        "Epidemiology"
+      ],
+      "correctAnswer": "Pharmaceutics"
+    },
+    {
+      "question": "Which objective of research focuses on cost vs. outcome?",
+      "answers": [
+        "Quality assurance",
+        "Pharmacoeconomics",
+        "Public health",
+        "Evaluation"
+      ],
+      "correctAnswer": "Pharmacoeconomics"
+    },
+    {
+      "question": "Basic research mainly aims to:",
+      "answers": [
+        "Solve immediate problems",
+        "Generate profit",
+        "Expand scientific knowledge",
+        "Evaluate services"
+      ],
+      "correctAnswer": "Expand scientific knowledge"
+    },
+    {
+      "question": "Testing preservatives on syrup stability is an example of:",
+      "answers": [
+        "Clinical research",
+        "Experimental research",
+        "Epidemiological research",
+        "Socio-behavioral research"
+      ],
+      "correctAnswer": "Experimental research"
+    },
+    {
+      "question": "Phase III clinical trials primarily focus on:",
+      "answers": [
+        "Safety",
+        "Dosage",
+        "Confirmation",
+        "Post-marketing surveillance"
+      ],
+      "correctAnswer": "Confirmation"
+    },
+    {
+      "question": "Research focusing on disease distribution is called:",
+      "answers": [
+        "Pharmacoeconomic research",
+        "Clinical research",
+        "Epidemiological research",
+        "Basic research"
+      ],
+      "correctAnswer": "Epidemiological research"
+    },
+    {
+      "question": "The first step in the research process is:",
+      "answers": [
+        "Data analysis",
+        "Literature review",
+        "Identify the problem",
+        "Formulate hypothesis"
+      ],
+      "correctAnswer": "Identify the problem"
+    },
+    {
+      "question": "Which tool is commonly used for data analysis?",
+      "answers": [
+        "PubMed",
+        "SPSS",
+        "FFQ",
+        "IPAQ"
+      ],
+      "correctAnswer": "SPSS"
+    },
+    {
+      "question": "A literature review is best described as:",
+      "answers": [
+        "A list of references",
+        "A summary only",
+        "A critical analysis and synthesis",
+        "A discussion section"
+      ],
+      "correctAnswer": "A critical analysis and synthesis"
+    },
+    {
+      "question": "Why is a literature review important?",
+      "answers": [
+        "To repeat previous studies",
+        "To identify gaps and justify research",
+        "To collect primary data",
+        "To analyze statistics"
+      ],
+      "correctAnswer": "To identify gaps and justify research"
+    },
+    {
+      "question": "Which type of review maps are all available research on a broad topic?",
+      "answers": [
+        "Narrative",
+        "Systematic",
+        "Scoping",
+        "Argumentative"
+      ],
+      "correctAnswer": "Scoping"
+    },
+    {
+      "question": "Which database is commonly used for biomedical literature?",
+      "answers": [
+        "Google",
+        "PubMed",
+        "Wikipedia",
+        "Facebook"
+      ],
+      "correctAnswer": "PubMed"
+    },
+    {
+      "question": "Boolean operator AND is used to:",
+      "answers": [
+        "Exclude terms",
+        "Combine unrelated terms",
+        "Narrow search results",
+        "Replace keywords"
+      ],
+      "correctAnswer": "Narrow search results"
+    },
+    {
+      "question": "Which section of a paper should be read first?",
+      "answers": [
+        "Discussion",
+        "Methods",
+        "Abstract",
+        "References"
+      ],
+      "correctAnswer": "Abstract"
+    },
+    {
+      "question": "A literature matrix usually includes all EXCEPT:",
+      "answers": [
+        "Author",
+        "Country",
+        "Sample color",
+        "Key findings"
+      ],
+      "correctAnswer": "Sample color"
+    },
+    {
+      "question": "Synthesizing literature means:",
+      "answers": [
+        "Copying summaries",
+        "Grouping and comparing findings",
+        "Listing studies chronologically",
+        "Paraphrasing abstracts"
+      ],
+      "correctAnswer": "Grouping and comparing findings"
+    },
+    {
+      "question": "Which structure organizes studies by theme?",
+      "answers": [
+        "Chronological",
+        "Methodological",
+        "Thematic",
+        "Conceptual"
+      ],
+      "correctAnswer": "Thematic"
+    },
+    {
+      "question": "The final step of a literature review is to:",
+      "answers": [
+        "Search databases",
+        "Read abstracts",
+        "Write and synthesize",
+        "Choose keywords"
+      ],
+      "correctAnswer": "Write and synthesize"
+    },
+    {
+      "question": "A research question should be:",
+      "answers": [
+        "Broad and vague",
+        "Opinion-based",
+        "Specific and researchable",
+        "Philosophical"
+      ],
+      "correctAnswer": "Specific and researchable"
+    },
+    {
+      "question": "Which is a descriptive research question?",
+      "answers": [
+        "What causes hypertension?",
+        "What is the prevalence of anemia?",
+        "Is education related to anemia?",
+        "Does counseling improve adherence"
+      ],
+      "correctAnswer": "What is the prevalence of anemia?"
+    },
+    {
+      "question": "FINER criteria include all EXCEPT:",
+      "answers": [
+        "Feasible",
+        "Innovative",
+        "Ethical",
+        "Relevant"
+      ],
+      "correctAnswer": "Innovative"
+    },
+    {
+      "question": "A comparative question usually compares:",
+      "answers": [
+        "One variable",
+        "Two or more groups",
+        "Time periods only",
+        "Opinions"
+      ],
+      "correctAnswer": "Two or more groups"
+    },
+    {
+      "question": "Which step comes first in formulating a research question?",
+      "answers": [
+        "Identify variables",
+        "Narrow the topic",
+        "Identify a broad topic",
+        "Write objectives"
+      ],
+      "correctAnswer": "Identify a broad topic"
+    },
+    {
+      "question": "Research objectives should be:",
+      "answers": [
+        "Vague",
+        "SMART",
+        "Long",
+        "Optional"
+      ],
+      "correctAnswer": "SMART"
+    },
+    {
+      "question": "The \"T\" in SMART stands for:",
+      "answers": [
+        "Testable",
+        "Targeted",
+        "Time-bound",
+        "Theoretical"
+      ],
+      "correctAnswer": "Time-bound"
+    },
+    {
+      "question": "A general objective is usually:",
+      "answers": [
+        "Very specific",
+        "Broad in scope",
+        "Statistical",
+        "Time-bound"
+      ],
+      "correctAnswer": "Broad in scope"
+    },
+    {
+      "question": "Which objective matches the question \"What factors are associated with anemia?\"",
+      "answers": [
+        "To measure anemia",
+        "To prevent anemia",
+        "To identify associated factors",
+        "To treat anemia"
+      ],
+      "correctAnswer": "To identify associated factors"
+    },
+    {
+      "question": "Research questions and objectives must:",
+      "answers": [
+        "Be independent",
+        "Contradict each other",
+        "Align with each other",
+        "Be identical"
+      ],
+      "correctAnswer": "Align with each other"
+    },
+    {
+      "question": "A hypothesis is a:",
+      "answers": [
+        "Proven fact",
+        "Tentative, testable statement",
+        "Research objective",
+        "Data result"
+      ],
+      "correctAnswer": "Tentative, testable statement"
+    },
+    {
+      "question": "A good hypothesis must be:",
+      "answers": [
+        "Ethical and testable",
+        "Long and complex",
+        "Opinion-based",
+        "Abstract"
+      ],
+      "correctAnswer": "Ethical and testable"
+    },
+    {
+      "question": "Which hypothesis states no relationship?",
+      "answers": [
+        "Research hypothesis",
+        "Alternative hypothesis",
+        "Null hypothesis",
+        "Directional hypothesis"
+      ],
+      "correctAnswer": "Null hypothesis"
+    },
+    {
+      "question": "A hypothesis with one IV and one DV is called:",
+      "answers": [
+        "Complex",
+        "Causal",
+        "Simple",
+        "Statistical"
+      ],
+      "correctAnswer": "Simple"
+    },
+    {
+      "question": "\"Iron intake improves Hb level\" is an example of:",
+      "answers": [
+        "Non-directional hypothesis",
+        "Directional hypothesis",
+        "Null hypothesis",
+        "Descriptive hypothesis"
+      ],
+      "correctAnswer": "Directional hypothesis"
+    },
+    {
+      "question": "Independent variable refers to:",
+      "answers": [
+        "Outcome",
+        "Effect",
+        "Predictor",
+        "Measurement tool"
+      ],
+      "correctAnswer": "Predictor"
+    },
+    {
+      "question": "Operationalization means:",
+      "answers": [
+        "Writing objectives",
+        "Turning concepts into measurable variables",
+        "Collecting data",
+        "Testing significance"
+      ],
+      "correctAnswer": "Turning concepts into measurable variables"
+    },
+    {
+      "question": "Which test is suitable for association between two categorical variables?",
+      "answers": [
+        "t-test",
+        "ANOVA",
+        "Chi-square",
+        "Regression"
+      ],
+      "correctAnswer": "Chi-square"
+    },
+    {
+      "question": "A causal hypothesis is best tested using:",
+      "answers": [
+        "Cross-sectional study",
+        "Case study",
+        "RCT",
+        "Qualitative interview"
+      ],
+      "correctAnswer": "RCT"
+    },
+    {
+      "question": "The main purpose of a hypothesis is to:",
+      "answers": [
+        "Replace objectives",
+        "Guide data collection and analysis",
+        "Summarize results",
+        "Review literature"
+      ],
+      "correctAnswer": "Guide data collection and analysis"
+    },
+    {
+      "question": "Research design is best described as:",
+      "answers": [
+        "Data collection tool",
+        "Statistical method",
+        "Blueprint of the study",
+        "Research objective"
+      ],
+      "correctAnswer": "Blueprint of the study"
+    },
+    {
+      "question": "Which design focuses on numerical data?",
+      "answers": [
+        "Qualitative",
+        "Mixed methods",
+        "Quantitative",
+        "Ethnographic"
+      ],
+      "correctAnswer": "Quantitative"
+    },
+    {
+      "question": "A study measuring prevalence uses which design?",
+      "answers": [
+        "Experimental",
+        "Descriptive",
+        "Case-control",
+        "RCT"
+      ],
+      "correctAnswer": "Descriptive"
+    },
+    {
+      "question": "Cross-sectional studies collect data:",
+      "answers": [
+        "Over many years",
+        "After intervention",
+        "At one point in time",
+        "Before exposure"
+      ],
+      "correctAnswer": "At one point in time"
+    },
+    {
+      "question": "Which design is best for rare diseases?",
+      "answers": [
+        "Cohort",
+        "Case-control",
+        "Cross-sectional",
+        "RCT"
+      ],
+      "correctAnswer": "Case-control"
+    },
+    {
+      "question": "The gold standard for clinical research is:",
+      "answers": [
+        "Case study",
+        "Cohort study",
+        "RCT",
+        "Qualitative interview"
+      ],
+      "correctAnswer": "RCT"
+    },
+    {
+      "question": "Phenomenological design focuses on:",
+      "answers": [
+        "Numbers",
+        "Experiences",
+        "Theory building",
+        "Culture"
+      ],
+      "correctAnswer": "Experiences"
+    },
+    {
+      "question": "Ethnographic research mainly studies:",
+      "answers": [
+        "Statistics",
+        "Interventions",
+        "Cultural practices",
+        "Outcomes"
+      ],
+      "correctAnswer": "Cultural practices"
+    },
+    {
+      "question": "Mixed-methods research combines:",
+      "answers": [
+        "Two quantitative designs",
+        "Qualitative only",
+        "Quantitative and qualitative approaches",
+        "Observation only"
+      ],
+      "correctAnswer": "Quantitative and qualitative approaches"
+    },
+    {
+      "question": "Validity and reliability ensure:",
+      "answers": [
+        "Faster data collection",
+        "Ethical approval",
+        "Quality and rigor of research",
+        "Larger sample size"
+      ],
+      "correctAnswer": "Quality and rigor of research"
+    },
+    {
+      "question": "Which sampling technique gives every individual an equal chance of selection?",
+      "answers": [
+        "Convenience",
+        "Purposive",
+        "Simple random",
+        "Quota"
+      ],
+      "correctAnswer": "Simple random"
+    },
+    {
+      "question": "Stratified sampling is mainly used to:",
+      "answers": [
+        "Reduce cost",
+        "Ensure subgroup representation",
+        "Increase bias",
+        "Avoid randomization"
+      ],
+      "correctAnswer": "Ensure subgroup representation"
+    },
+    {
+      "question": "Selecting every 10th patient from a list is called:",
+      "answers": [
+        "Cluster sampling",
+        "Simple random sampling",
+        "Systematic sampling",
+        "Convenience sampling"
+      ],
+      "correctAnswer": "Systematic sampling"
+    },
+    {
+      "question": "Non-probability sampling is most commonly used in:",
+      "answers": [
+        "National census",
+        "Clinical trials",
+        "Student research projects",
+        "Drug registration studies"
+      ],
+      "correctAnswer": "Student research projects"
+    },
+    {
+      "question": "Sample size refers to:",
+      "answers": [
+        "Total population",
+        "Number of variables",
+        "Number of participants",
+        "Study duration"
+      ],
+      "correctAnswer": "Number of participants"
+    },
+    {
+      "question": "A rare disease generally requires a sample size that is:",
+      "answers": [
+        "Small",
+        "Zero",
+        "Larger",
+        "Fixed"
+      ],
+      "correctAnswer": "Larger"
+    },
+    {
+      "question": "Increasing confidence level will usually:",
+      "answers": [
+        "Decrease sample size",
+        "Increase sample size",
+        "Not affect sample size",
+        "Eliminate bias"
+      ],
+      "correctAnswer": "Increase sample size"
+    },
+    {
+      "question": "The value Z=1.96 corresponds to a confidence level of:",
+      "answers": [
+        "90%",
+        "95%",
+        "99%",
+        "85%"
+      ],
+      "correctAnswer": "95%"
+    },
+    {
+      "question": "Which formula is used for sample size estimation?",
+      "answers": [
+        "n=Z²p(1-p)/d²",
+        "E=mc²",
+        "PV=nRT",
+        "F=ma"
+      ],
+      "correctAnswer": "n=Z²p(1-p)/d²"
+    },
+    {
+      "question": "Convenience sampling selects participants based on:",
+      "answers": [
+        "Random numbers",
+        "Accessibility",
+        "Gender",
+        "Probability"
+      ],
+      "correctAnswer": "Accessibility"
+    },
+    {
+      "question": "A cross-sectional study collects data:",
+      "answers": [
+        "Over many years",
+        "At one point in time",
+        "After intervention only",
+        "Before treatment only"
+      ],
+      "correctAnswer": "At one point in time"
+    },
+    {
+      "question": "Which study design is best for prevalence estimation?",
+      "answers": [
+        "Case-control",
+        "Cohort",
+        "Cross-sectional",
+        "Experimental"
+      ],
+      "correctAnswer": "Cross-sectional"
+    },
+    {
+      "question": "A dependent variable is:",
+      "answers": [
+        "Manipulated by researcher",
+        "The outcome measured",
+        "Always qualitative",
+        "Independent of study"
+      ],
+      "correctAnswer": "The outcome measured"
+    },
+    {
+      "question": "Ethical approval must be obtained:",
+      "answers": [
+        "After data collection",
+        "Before starting research",
+        "During publication",
+        "After analysis"
+      ],
+      "correctAnswer": "Before starting research"
+    },
+    {
+      "question": "Informed consent means participants:",
+      "answers": [
+        "Are forced to join",
+        "Understand and agree voluntarily",
+        "Are paid to join",
+        "Cannot withdraw"
+      ],
+      "correctAnswer": "Understand and agree voluntarily"
+    },
+    {
+      "question": "Which principle ensures fair participant selection?",
+      "answers": [
+        "Beneficence",
+        "Justice",
+        "Confidentiality",
+        "Integrity"
+      ],
+      "correctAnswer": "Justice"
+    },
+    {
+      "question": "Plagiarism refers to:",
+      "answers": [
+        "Data analysis",
+        "Copying without citation",
+        "Ethical approval",
+        "Sampling error"
+      ],
+      "correctAnswer": "Copying without citation"
+    },
+    {
+      "question": "Fabrication of data means:",
+      "answers": [
+        "Statistical analysis",
+        "Creating fake data",
+        "Data collection",
+        "Literature review"
+      ],
+      "correctAnswer": "Creating fake data"
+    },
+    {
+      "question": "Confidentiality means:",
+      "answers": [
+        "Publishing names",
+        "Sharing data freely",
+        "Protecting participant identity",
+        "Ignoring consent"
+      ],
+      "correctAnswer": "Protecting participant identity"
+    },
+    {
+      "question": "Which is NOT a component of informed consent?",
+      "answers": [
+        "Purpose",
+        "Risks",
+        "Confidentiality",
+        "Data analysis software"
+      ],
+      "correctAnswer": "Data analysis software"
+    },
+    {
+      "question": "A good research title should be:",
+      "answers": [
+        "Long and vague",
+        "Clear and specific",
+        "Very general",
+        "Emotional"
+      ],
+      "correctAnswer": "Clear and specific"
+    },
+    {
+      "question": "The problem statement should be:",
+      "answers": [
+        "Opinion-based",
+        "Evidence-based",
+        "Very broad",
+        "Irrelevant"
+      ],
+      "correctAnswer": "Evidence-based"
+    },
+    {
+      "question": "Research objectives should be:",
+      "answers": [
+        "Measurable",
+        "Emotional",
+        "Hidden",
+        "Unrelated"
+      ],
+      "correctAnswer": "Measurable"
+    },
+    {
+      "question": "Literature review helps to:",
+      "answers": [
+        "Copy previous work",
+        "Identify research gaps",
+        "Avoid citations",
+        "Increase bias"
+      ],
+      "correctAnswer": "Identify research gaps"
+    },
+    {
+      "question": "Which is a qualitative method?",
+      "answers": [
+        "Questionnaire with numbers",
+        "Interview",
+        "Laboratory test",
+        "SPSS analysis"
+      ],
+      "correctAnswer": "Interview"
+    },
+    {
+      "question": "SPSS is mainly used for:",
+      "answers": [
+        "Data collection",
+        "Data analysis",
+        "Sampling",
+        "Writing reports"
+      ],
+      "correctAnswer": "Data analysis"
+    },
+    {
+      "question": "Which study design follows participants over time?",
+      "answers": [
+        "Cross-sectional",
+        "Case report",
+        "Cohort",
+        "Descriptive"
+      ],
+      "correctAnswer": "Cohort"
+    },
+    {
+      "question": "Beneficence in research means:",
+      "answers": [
+        "Maximize harm",
+        "Minimize benefits",
+        "Maximize benefits and minimize harm",
+        "Ignore risk"
+      ],
+      "correctAnswer": "Maximize benefits and minimize harm"
+    },
+    {
+      "question": "Justice avoids:",
+      "answers": [
+        "Random sampling",
+        "Exploitation of vulnerable groups",
+        "Ethical approval",
+        "Consent"
+      ],
+      "correctAnswer": "Exploitation of vulnerable groups"
+    },
+    {
+      "question": "Which is an example of biological sample?",
+      "answers": [
+        "Questionnaire",
+        "Interview",
+        "Blood",
+        "Checklist"
+      ],
+      "correctAnswer": "Blood"
+    },
+    {
+      "question": "Research ethics mainly aims to:",
+      "answers": [
+        "Delay research",
+        "Protect participants",
+        "Increase cost",
+        "Limit publication"
+      ],
+      "correctAnswer": "Protect participants"
+    },
+    {
+      "question": "A hypothesis is:",
+      "answers": [
+        "A proven fact",
+        "A testable statement",
+        "An opinion",
+        "A conclusion"
+      ],
+      "correctAnswer": "A testable statement"
+    },
+    {
+      "question": "Null hypothesis states:",
+      "answers": [
+        "There is an effect",
+        "There is no effect",
+        "Results are significant",
+        "Variables are related"
+      ],
+      "correctAnswer": "There is no effect"
+    },
+    {
+      "question": "Which test is used for association between categorical variables?",
+      "answers": [
+        "t-test",
+        "ANOVA",
+        "Chi-square",
+        "Regression"
+      ],
+      "correctAnswer": "Chi-square"
+    },
+    {
+      "question": "Which research design tests cause and effect?",
+      "answers": [
+        "Observational",
+        "Experimental",
+        "Descriptive",
+        "Case study"
+      ],
+      "correctAnswer": "Experimental"
+    },
+    {
+      "question": "Data collection tools include:",
+      "answers": [
+        "Questionnaire",
+        "Interview",
+        "Laboratory test",
+        "All of the above"
+      ],
+      "correctAnswer": "All of the above"
+    },
+    {
+      "question": "A variable that influences outcome is:",
+      "answers": [
+        "Dependent",
+        "Independent",
+        "Constant",
+        "Error"
+      ],
+      "correctAnswer": "Independent"
+    },
+    {
+      "question": "Ethical research increases:",
+      "answers": [
+        "Bias",
+        "Credibility",
+        "Risk",
+        "Plagiarism"
+      ],
+      "correctAnswer": "Credibility"
+    },
+    {
+      "question": "Right to withdraw means participants can:",
+      "answers": [
+        "Never leave study",
+        "Leave anytime",
+        "Leave after results",
+        "Leave only with permission"
+      ],
+      "correctAnswer": "Leave anytime"
+    },
+    {
+      "question": "A pilot study is conducted to:",
+      "answers": [
+        "Publish results",
+        "Test feasibility",
+        "Increase sample size",
+        "Replace main study"
+      ],
+      "correctAnswer": "Test feasibility"
+    },
+    {
+      "question": "Which sampling method divides population into clusters?",
+      "answers": [
+        "Stratified",
+        "Cluster",
+        "Systematic",
+        "Simple random"
+      ],
+      "correctAnswer": "Cluster"
+    },
+    {
+      "question": "Quota sampling is a type of:",
+      "answers": [
+        "Probability sampling",
+        "Non-probability sampling",
+        "Random sampling",
+        "Cluster sampling"
+      ],
+      "correctAnswer": "Non-probability sampling"
+    },
+    {
+      "question": "Margin of error is represented by:",
+      "answers": [
+        "Z",
+        "p",
+        "d",
+        "n"
+      ],
+      "correctAnswer": "d"
+    },
+    {
+      "question": "A confidence level of 99% uses Z value:",
+      "answers": [
+        "1.64",
+        "1.96",
+        "2.58",
+        "3.00"
+      ],
+      "correctAnswer": "2.58"
+    },
+    {
+      "question": "Which is a common writing mistake?",
+      "answers": [
+        "Clear objectives",
+        "Proper citation",
+        "Vague objectives",
+        "Ethical approval"
+      ],
+      "correctAnswer": "Vague objectives"
+    },
+    {
+      "question": "Methodology should align with:",
+      "answers": [
+        "Budget only",
+        "Objectives",
+        "References",
+        "Title font"
+      ],
+      "correctAnswer": "Objectives"
+    },
+    {
+      "question": "Descriptive statistics include:",
+      "answers": [
+        "Mean and percentage",
+        "Regression",
+        "Hypothesis testing",
+        "ANOVA"
+      ],
+      "correctAnswer": "Mean and percentage"
+    },
+    {
+      "question": "Inferential statistics are used to:",
+      "answers": [
+        "Summarize data",
+        "Draw conclusions",
+        "Design questionnaires",
+        "Collect samples"
+      ],
+      "correctAnswer": "Draw conclusions"
+    },
+    {
+      "question": "Research without ethics approval is:",
+      "answers": [
+        "Recommended",
+        "Acceptable",
+        "Unethical",
+        "Preferred"
+      ],
+      "correctAnswer": "Unethical"
+    },
+    {
+      "question": "Ethical research is more likely to be:",
+      "answers": [
+        "Rejected",
+        "Ignored",
+        "Trusted and publishable",
+        "Biased"
+      ],
+      "correctAnswer": "Trusted and publishable"
+    }
+  ]
